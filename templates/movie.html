@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<div class="container">
+	<h1 class="mt-5">{{ mov['Movie'] }}</h1>
+	<div class="row">
+		<div class="col-lg-8 col-md-10 col-sm-12 alert alert-info p-4">
+<!-- <div id="middle_content">-->
+
+		<div id='list_details' class='bullets'>
+				<ul>
+		  		<li>Bechdel Rating: {{ mov['Bechdel-Rating'] }}</li>
+					<li>Year Released: {{ mov['Release-Year'] }} </li>
+		  		<li>Directors: {{ mov['Directors'] }}</li>
+					<li>Writers: {{ mov['Writers'] }}</li>
+				</ul>
+		</div>
+		<p class='lead'><a href="http://bechdeltest.com">The Bechdel Test</a> is a test that measures the representation of women in fiction. The test has 4 levels of rating:	</p>
+		<div id='bechdel' class='bullets'>
+	 			<ol start="0">
+						<li>Fewer than two women in this movie.</li>
+						<li>There are two or more women in this movie, but they don't talk to each other.</li>
+						<li>There are two or more women in this movie, but they only talk to each other about a man.</li>
+						<li>There are two or more women in this movie and they talk to each other about something other than a man.</li>
+				</ol>
+	</div>
+<p>View IMDb page for <a href="{{ mov['IMDB-link'] }}">{{ mov['Movie'] }}</a>.</p>
+
+<p><a href="{{ url_for('search') }}"> Search for another movie</a> or <a href="{{ url_for('index') }}"> instead look at all 7, 599 movies.</a></p>
+</div>
+</div>
+<!-- Footer -->
+<footer class="page-footer font-small yellow">
+
+	<!-- credit -->
+	<div class="col-lg-8 col-md-10 col-sm-12 py-3">Created by Claudia Perez Brito as a final project for the Advanced Web Apps course at the University of Florida. Click<a heref="LINK TO GITHUB"> here </a>to view Github repo and see how this site was made.
+	</div>
+	<!-- credit -->
+
+</footer>
+<!-- Footer -->
+</div>
+
+	<!-- linking to route for actor list -->
+
+
+{% endblock %}

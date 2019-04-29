@@ -1,0 +1,406 @@
+movie_name,movie_yr,movie_directors,movie_writers
+Ali: Fear Eats the Soul,1973,['Rainer Werner Fassbinder'],['Rainer Werner Fassbinder']
+Alice Doesn't Live Here Anymore,1974,['Martin Scorsese'],['Robert Getchell']
+Black Christmas,1974,['Bob Clark'],['Roy Moore']
+Blazing Saddles,1974,['Mel Brooks'],"['Mel Brooks', 'Norman Steinberg']"
+Brief Encounter,1974,['Alan Bridges'],"['John Bowen', 'Noël Coward']"
+Celine and Julie Go Boating,1974,['Jacques Rivette'],"['Juliet Berto', 'Dominique Labourier']"
+Chinatown,1974,['Roman Polanski'],['Robert Towne']
+The Conversation,1974,['Francis Ford Coppola'],['Francis Ford Coppola']
+Dark Star,1974,['John Carpenter'],"['John Carpenter', ""Dan O'Bannon""]"
+Death Wish,1974,['Michael Winner'],"['Brian Garfield', 'Wendell Mayes']"
+Dracula,1974,['Dan Curtis'],['Richard Matheson']
+Edvard Munch,1974,['Peter Watkins'],['Peter Watkins']
+Emmanuelle,1974,['Just Jaeckin'],"['Emmanuelle Arsan', 'Jean-Louis Richard']"
+Female Trouble,1974,['John Waters'],['John Waters']
+Foxy Brown,1974,['Jack Hill'],['Jack Hill']
+The Godfather: Part II,1974,['Francis Ford Coppola'],"['Francis Ford Coppola', 'Mario Puzo']"
+Godzilla vs. Mechagodzilla,1974,['Jun Fukuda'],"['Jun Fukuda', 'Masami Fukushima']"
+Going Places,1974,['Bertrand Blier'],"['Bertrand Blier', 'Bertrand Blier']"
+The Groove Tube,1974,['Ken Shapiro'],"['Lane Sarasohn', 'Ken Shapiro']"
+"Je, tu, il, elle",1974,['Chantal Akerman'],"['Chantal Akerman', 'Eric De Kuyper']"
+The Legend of the 7 Golden Vampires,1974,"['Roy Ward Baker', 'Cheh Chang']",['Don Houghton']
+Mame,1974,['Gene Saks'],"['Jerome Lawrence', 'Robert E. Lee']"
+The Man with the Golden Gun,1974,['Guy Hamilton'],"['Richard Maibaum', 'Tom Mankiewicz']"
+Let Sleeping Corpses Lie,1974,['Jorge Grau'],"['Sandro Continenza', 'Marcello Coscia']"
+The Odessa File,1974,['Ronald Neame'],"['Frederick Forsyth', 'Kenneth Ross']"
+The Parallax View,1974,['Alan J. Pakula'],"['David Giler', 'Lorenzo Semple Jr.']"
+Phantom of the Paradise,1974,['Brian De Palma'],['Brian De Palma']
+The Sugarland Express,1974,['Steven Spielberg'],"['Hal Barwood', 'Matthew Robbins']"
+The Texas Chain Saw Massacre,1974,['Tobe Hooper'],"['Kim Henkel', 'Tobe Hooper']"
+The Towering Inferno,1974,['John Guillermin'],"['Richard Martin Stern', 'Thomas N. Scortia']"
+Truck Turner,1974,['Jonathan Kaplan'],"['Oscar Williams', 'Michael Allin']"
+Vampyres,1974,['José Ramón Larraz'],['Diana Daubeney']
+Young Frankenstein,1974,['Mel Brooks'],"['Gene Wilder', 'Mel Brooks']"
+Zardoz,1974,['John Boorman'],['John Boorman']
+A Charlie Brown Thanksgiving,1973,"['Bill Melendez', 'Phil Roman']","['Charles M. Schulz', 'Jerry Juhl']"
+A Doll's House,1973,['Patrick Garland'],"['Henrik Ibsen', 'Christopher Hampton']"
+A Touch of Class,1973,['Melvin Frank'],"['Melvin Frank', 'Jack Rose']"
+American Graffiti,1973,['George Lucas'],"['George Lucas', 'Gloria Katz']"
+The Baby,1973,['Ted Post'],['Abe Polsky']
+Badlands,1973,['Terrence Malick'],['Terrence Malick']
+Black Mama White Mama,1973,['Eddie Romero'],"['H.R. Christian', 'Joe Viola']"
+Children Shouldn't Play with Dead Things,1972,['Bob Clark'],"['Alan Ormsby', 'Bob Clark']"
+The Crazies,1973,['George A. Romero'],"['Paul McCollough', 'George A. Romero']"
+Day for Night,1973,['François Truffaut'],"['François Truffaut', 'Jean-Louis Richard']"
+Don Juan (Or If Don Juan Were a Woman),1973,['Roger Vadim'],"['Jean Cau', 'Roger Vadim']"
+Don't Look Now,1973,['Nicolas Roeg'],"['Daphne Du Maurier', 'Allan Scott']"
+Return of the Evil Dead,1973,['Amando de Ossorio'],"['Amando de Ossorio', 'Amando de Ossorio']"
+The Exorcist,1973,['William Friedkin'],"['William Peter Blatty', 'William Peter Blatty']"
+Godzilla vs. Megalon,1973,['Jun Fukuda'],"['Jun Fukuda', 'Takeshi Kimura']"
+High Plains Drifter,1973,['Clint Eastwood'],['Ernest Tidyman']
+The Holy Mountain,1973,['Alejandro Jodorowsky'],['Alejandro Jodorowsky']
+Ivan Vasilievich: Back to the Future,1973,['Leonid Gaidai'],"['Mikhail A. Bulgakov', 'Vladlen Bakhnov']"
+Jesus Christ Superstar,1973,['Norman Jewison'],"['Melvyn Bragg', 'Norman Jewison']"
+Lady Snowblood,1973,['Toshiya Fujita'],"['Kazuo Kamimura', 'Kazuo Koike']"
+The Legend of Hell House,1973,['John Hough'],"['Richard Matheson', 'Richard Matheson']"
+Lemora: A Child's Tale of the Supernatural,1973,['Richard Blackburn'],"['Richard Blackburn', 'Robert Fern']"
+Live and Let Die,1973,['Guy Hamilton'],['Tom Mankiewicz']
+Les aventures de Rabbi Jacob,1973,['Gérard Oury'],"['Gérard Oury', 'Danièle Thompson']"
+Mean Streets,1973,['Martin Scorsese'],"['Martin Scorsese', 'Mardik Martin']"
+Paper Moon,1973,['Peter Bogdanovich'],"['Joe David Brown', 'Alvin Sargent']"
+Papillon,1973,['Franklin J. Schaffner'],"['Dalton Trumbo', 'Lorenzo Semple Jr.']"
+Payday,1973,['Daryl Duke'],['Don Carpenter']
+Robin Hood,1973,['Wolfgang Reitherman'],"['Larry Clemmons', 'Ken Anderson']"
+The Satanic Rites of Dracula,1973,['Alan Gibson'],['Don Houghton']
+Serpico,1973,['Sidney Lumet'],"['Peter Maas', 'Waldo Salt']"
+Sleeper,1973,['Woody Allen'],"['Woody Allen', 'Marshall Brickman']"
+Soylent Green,1973,['Richard Fleischer'],"['Stanley R. Greenberg', 'Harry Harrison']"
+The Spirit of the Beehive,1973,['Víctor Erice'],"['Ángel Fernández Santos', 'Víctor Erice']"
+The Sting,1973,['George Roy Hill'],['David S. Ward']
+Turkish Delight,1973,['Paul Verhoeven'],"['Gerard Soeteman', 'Jan Wolkers']"
+The Wicker Man,1973,['Robin Hardy'],['Anthony Shaffer']
+Welt am Draht     ,None,"['Klaus Löwitsch', 'Barbara Valentin', 'Mascha Rabben', 'See full cast & crew']",None
+1776,1972,['Peter H. Hunt'],"['Peter Stone', 'Sherman Edwards']"
+"Aguirre, the Wrath of God",1972,['Werner Herzog'],['Werner Herzog']
+Avanti!,1972,['Billy Wilder'],"['Samuel A. Taylor', 'Billy Wilder']"
+The Bitter Tears of Petra von Kant,1972,['Rainer Werner Fassbinder'],"['Rainer Werner Fassbinder', 'Rainer Werner Fassbinder']"
+Blacula,1972,['William Crain'],"['Joan Torres', 'Raymond Koenig']"
+Butterflies Are Free,1972,['Milton Katselas'],"['Leonard Gershe', 'Leonard Gershe']"
+Cabaret,1972,['Bob Fosse'],"['Joe Masteroff', 'John Van Druten']"
+Chloe in the Afternoon,1972,['Éric Rohmer'],['Éric Rohmer']
+Cries & Whispers,1972,['Ingmar Bergman'],['Ingmar Bergman']
+A zori zdes tikhie,1972,['Stanislav Rostotskiy'],"['Stanislav Rostotskiy', 'Boris Vasilev']"
+Deep Throat,1972,['Gerard Damiano'],['Gerard Damiano']
+Deliverance,1972,['John Boorman'],"['James Dickey', 'James Dickey']"
+Don't Torture a Duckling,1972,['Lucio Fulci'],"['Lucio Fulci', 'Roberto Gianviti']"
+The Discreet Charm of the Bourgeoisie,1972,['Luis Buñuel'],"['Luis Buñuel', 'Jean-Claude Carrière']"
+Frenzy,1972,['Alfred Hitchcock'],"['Arthur La Bern', 'Anthony Shaffer']"
+The Godfather,1972,['Francis Ford Coppola'],"['Mario Puzo', 'Francis Ford Coppola']"
+Godzilla vs. Gigan,1972,['Jun Fukuda'],"['Takeshi Kimura', ""Shin'ichi Sekizawa""]"
+Jeremiah Johnson,1972,['Sydney Pollack'],"['Vardis Fisher', 'Raymond W. Thorp']"
+"L'aventure, c'est l'aventure",1972,['Claude Lelouch'],"['Claude Lelouch', 'Pierre Uytterhoeven']"
+The Last House on the Left,1972,['Wes Craven'],['Wes Craven']
+Last Tango in Paris,1972,['Bernardo Bertolucci'],"['Bernardo Bertolucci', 'Bernardo Bertolucci']"
+The Mattei Affair,1972,['Francesco Rosi'],"['Francesco Rosi', 'Tonino Guerra']"
+The Other Side of Underneath,1972,['Jane Arden'],"['Jane Arden', 'Jane Arden']"
+Pink Flamingos,1972,['John Waters'],['John Waters']
+The Poseidon Adventure,1972,['Ronald Neame'],"['Paul Gallico', 'Stirling Silliphant']"
+Prison Girls,1972,['Tom DeSimone'],['Lee Walters']
+Sbatti il mostro in prima pagina,1972,['Marco Bellocchio'],"['Sergio Donati', 'Goffredo Fofi']"
+"Silent Night, Bloody Night",1972,['Theodore Gershuny'],"['Theodore Gershuny', 'Jeffrey Konvitz']"
+Sleuth,1972,['Joseph L. Mankiewicz'],"['Anthony Shaffer', 'Anthony Shaffer']"
+Solaris,1971,['Andrei Tarkovsky'],"['Stanislaw Lem', 'Fridrikh Gorenshteyn']"
+State of Siege,1972,['Costa-Gavras'],"['Franco Solinas', 'Costa-Gavras']"
+Travels with My Aunt,1972,['George Cukor'],"['Jay Presson Allen', 'Hugh Wheeler']"
+Une belle fille comme moi,1972,['François Truffaut'],"['Henry Farrell', 'François Truffaut']"
+Wedding in White,1972,['William Fruet'],"['William Fruet', 'William Fruet']"
+"What's Up, Doc?",1972,['Peter Bogdanovich'],"['Buck Henry', 'David Newman']"
+When Michael Calls,1972,['Philip Leacock'],"['James Bridges', 'John Farris']"
+10 Rillington Place,1971,['Richard Fleischer'],"['Clive Exton', 'Ludovic Kennedy']"
+A Clockwork Orange,1971,['Stanley Kubrick'],"['Stanley Kubrick', 'Anthony Burgess']"
+And Now for Something Completely Different,1971,['Ian MacNaughton'],"['Graham Chapman', 'John Cleese']"
+Bananas,1971,['Woody Allen'],"['Woody Allen', 'Mickey Rose']"
+Bedknobs and Broomsticks,1971,['Robert Stevenson'],"['Ralph Wright', 'Ted Berman']"
+Bello onesto emigrato Australia sposerebbe compaesana illibata,1971,['Luigi Zampa'],"['Rodolfo Sonego', 'Rodolfo Sonego']"
+Death in Venice,1971,['Luchino Visconti'],"['Thomas Mann', 'Luchino Visconti']"
+The Devils,1971,['Ken Russell'],"['Ken Russell', 'John Whiting']"
+Diamonds Are Forever,1971,['Guy Hamilton'],"['Richard Maibaum', 'Tom Mankiewicz']"
+Duel,1971,['Steven Spielberg'],"['Richard Matheson', 'Richard Matheson']"
+The Emigrants,1971,['Jan Troell'],"['Bengt Forslund', 'Jan Troell']"
+Escape from the Planet of the Apes,1971,['Don Taylor'],"['Paul Dehn', 'Pierre Boulle']"
+The French Connection,1971,['William Friedkin'],"['Ernest Tidyman', 'Robin Moore']"
+Frenchie King,1971,"['Christian-Jaque', 'Guy Casaril']","['Marie-Ange Aniès', 'Jean Nemours']"
+Get Carter,1971,['Mike Hodges'],"['Mike Hodges', 'Ted Lewis']"
+Gojira tai Hedora,1971,['Yoshimitsu Banno'],"['Yoshimitsu Banno', 'Takeshi Kimura']"
+Hannie Caulder,1971,['Burt Kennedy'],"['Ian Quicke', 'Bob Richards']"
+Harold and Maude,1971,['Hal Ashby'],['Colin Higgins']
+Here Comes Peter Cottontail,1971,"['Jules Bass', 'Arthur Rankin Jr.']","['Priscilla Friedrich', 'Otto Friedrich']"
+The House That Dripped Blood,1971,['Peter Duffell'],['Robert Bloch']
+Klute,1971,['Alan J. Pakula'],"['Andy Lewis', 'David E. Lewis']"
+The Lady Hermit,1971,['Meng Hua Ho'],['I. Fang Yeh']
+The Last Picture Show,1971,['Peter Bogdanovich'],"['Larry McMurtry', 'Peter Bogdanovich']"
+Let's Scare Jessica to Death,1971,['John D. Hancock'],"['John D. Hancock', 'Lee Kalcheim']"
+Lulu the Tool,1971,['Elio Petri'],"['Elio Petri', 'Ugo Pirro']"
+Lust for a Vampire,1971,['Jimmy Sangster'],"['Tudor Gates', 'Sheridan Le Fanu']"
+Macbeth,1971,['Roman Polanski'],"['Roman Polanski', 'Kenneth Tynan']"
+"Mary, Queen of Scots",1971,['Charles Jarrott'],['John Hale']
+McCabe & Mrs. Miller,1971,['Robert Altman'],"['Edmund Naughton', 'Robert Altman']"
+The Million Dollar Duck,1971,['Vincent McEveety'],"['Ted Key', 'Roswell Rogers']"
+Mon Oncle Antoine,1971,['Claude Jutra'],"['Claude Jutra', 'Clément Perron']"
+Mrs. Pollifax-Spy,1971,['Leslie H. Martinson'],"['Rosalind Russell', 'Dorothy Gilman']"
+Nicholas and Alexandra,1971,['Franklin J. Schaffner'],"['Robert K. Massie', 'Edward Bond']"
+Play Misty for Me,1971,['Clint Eastwood'],"['Jo Heims', 'Dean Riesner']"
+Shaft,1971,['Gordon Parks'],"['Ernest Tidyman', 'John D.F. Black']"
+Straw Dogs,1971,['Sam Peckinpah'],"['David Zelag Goodman', 'Sam Peckinpah']"
+Sweet Sweetback's Baadasssss Song,1971,['Melvin Van Peebles'],['Melvin Van Peebles']
+Taking Off,1971,['Milos Forman'],"['Milos Forman', 'John Guare']"
+THX 1138,1971,['George Lucas'],"['George Lucas', 'George Lucas']"
+The Trojan Women,1971,['Michael Cacoyannis'],"['Euripides', 'Edith Hamilton']"
+Vampyros Lesbos,1971,['Jesús Franco'],"['Jaime Chávarri', 'Jaime Chávarri']"
+Wake in Fright,1971,['Ted Kotcheff'],"['Evan Jones', 'Kenneth Cook']"
+Walkabout,1971,['Nicolas Roeg'],"['Edward Bond', 'Donald G. Payne']"
+Werewolves on Wheels,1971,['Michel Levesque'],"['David M. Kaufman', 'Michel Levesque']"
+Willy Wonka & the Chocolate Factory,1971,['Mel Stuart'],"['Roald Dahl', 'Roald Dahl']"
+Airport,1970,"['George Seaton', 'Henry Hathaway']","['Arthur Hailey', 'George Seaton']"
+The AristoCats,1970,['Wolfgang Reitherman'],"['Larry Clemmons', 'Vance Gerry']"
+Bambule,1970,['Eberhard Itzenplitz'],['Ulrike Meinhof']
+Beyond the Valley of the Dolls,1970,['Russ Meyer'],"['Roger Ebert', 'Roger Ebert']"
+The Boys in the Band,1970,['William Friedkin'],"['Mart Crowley', 'Mart Crowley']"
+Carry It On,1970,"['James Coyne', 'Christopher G. Knight']","['Joan Baez', 'David Harris']"
+Claire's Knee,1970,['Éric Rohmer'],['Éric Rohmer']
+Colossus: The Forbin Project,1970,['Joseph Sargent'],"['James Bridges', 'D.F. Jones']"
+The Conformist,1970,['Bernardo Bertolucci'],"['Alberto Moravia', 'Bernardo Bertolucci']"
+Darling Lili,1970,['Blake Edwards'],"['Blake Edwards', 'William Peter Blatty']"
+Deep End,1970,['Jerzy Skolimowski'],"['Jerzy Skolimowski', 'Jerzy Gruza']"
+Dodes'ka-den,1970,['Akira Kurosawa'],"['Akira Kurosawa', 'Hideo Oguni']"
+Donkey Skin,1970,['Jacques Demy'],"['Charles Perrault', 'Jacques Demy']"
+Five Easy Pieces,1970,['Bob Rafelson'],"['Carole Eastman', 'Bob Rafelson']"
+House of Dark Shadows,1970,['Dan Curtis'],"['Sam Hall', 'Gordon Russell']"
+Le Cercle Rouge,1970,['Jean-Pierre Melville'],['Jean-Pierre Melville']
+Les novices,1970,"['Guy Casaril', 'Claude Chabrol']","['Guy Casaril', 'Paul Gégauff']"
+Little Big Man,1970,['Arthur Penn'],"['Thomas Berger', 'Calder Willingham']"
+Love Story,1970,['Arthur Hiller'],['Erich Segal']
+The Music Lovers,1971,['Ken Russell'],"['Melvyn Bragg', 'Catherine Drinker Bowen']"
+Count Dracula,1970,['Jesús Franco'],"['Bram Stoker', 'Erich Kröhnke']"
+The Phantom Tollbooth,1970,"['Chuck Jones', 'Abe Levitow', '1 more credit']","['Chuck Jones', 'Sam Rosen']"
+Santa Claus Is Comin' to Town,1970,"['Jules Bass', 'Arthur Rankin Jr.']",['Romeo Muller']
+Scars of Dracula,1970,['Roy Ward Baker'],"['Anthony Hinds', 'Bram Stoker']"
+Taste the Blood of Dracula,1970,['Peter Sasdy'],"['Anthony Hinds', 'Bram Stoker']"
+The Things of Life,1970,['Claude Sautet'],"['Sandro Continenza', 'Jean-Loup Dabadie']"
+Tora! Tora! Tora!,1970,"['Richard Fleischer', 'Kinji Fukasaku', '1 more credit']","['Larry Forrester', 'Hideo Oguni']"
+Tristana,1970,['Luis Buñuel'],"['Julio Alejandro', 'Luis Buñuel']"
+Two Mules for Sister Sara,1970,['Don Siegel'],"['Budd Boetticher', 'Albert Maltz']"
+The Vampire Lovers,1970,['Roy Ward Baker'],"['Sheridan Le Fanu', 'Harry Fine']"
+Waterloo,1970,['Sergey Bondarchuk'],"['H.A.L. Craig', 'Sergey Bondarchuk']"
+Age of Consent,1969,['Michael Powell'],"['Peter Yeldham', 'Norman Lindsay']"
+Alice's Restaurant,1969,['Arthur Penn'],"['Arlo Guthrie', 'Venable Herndon']"
+Army of Shadows,1969,['Jean-Pierre Melville'],"['Joseph Kessel', 'Jean-Pierre Melville']"
+Butch Cassidy and the Sundance Kid,1969,['George Roy Hill'],['William Goldman']
+Chastity,1969,['Alessio de Paola'],['Sonny Bono']
+The Computer Wore Tennis Shoes,1969,['Robert Butler'],['Joseph L. McEveety']
+Downhill Racer,1969,['Michael Ritchie'],['James Salter']
+Easy Rider,1969,['Dennis Hopper'],"['Peter Fonda', 'Dennis Hopper']"
+All Monsters Attack,1969,['Ishirô Honda'],"[""Shin'ichi Sekizawa""]"
+"Hello, Dolly!",1969,['Gene Kelly'],"['Michael Stewart', 'Thornton Wilder']"
+The Honeymoon Killers,1970,"['Leonard Kastle', 'Donald Volkman']",['Leonard Kastle']
+The Italian Job,1969,['Peter Collinson'],['Troy Kennedy-Martin']
+Kes,1969,['Ken Loach'],"['Barry Hines', 'Barry Hines']"
+Midnight Cowboy,1969,['John Schlesinger'],"['Waldo Salt', 'James Leo Herlihy']"
+Mississippi Mermaid,1969,['François Truffaut'],"['Cornell Woolrich', 'François Truffaut']"
+My Night at Maud's,1969,['Éric Rohmer'],['Éric Rohmer']
+My Side of the Mountain,1969,['James B. Clark'],"['Joanna Crawford', 'Jean George']"
+On Her Majesty's Secret Service,1969,['Peter R. Hunt'],"['Simon Raven', 'Richard Maibaum']"
+Paint Your Wagon,1969,['Joshua Logan'],"['Alan Jay Lerner', 'Alan Jay Lerner']"
+The Passion of Anna,1969,['Ingmar Bergman'],['Ingmar Bergman']
+The Prime of Miss Jean Brodie,1969,['Ronald Neame'],"['Muriel Spark', 'Jay Presson Allen']"
+Support Your Local Sheriff!,1969,['Burt Kennedy'],['William Bowers']
+Take the Money and Run,1969,['Woody Allen'],"['Woody Allen', 'Mickey Rose']"
+"They Shoot Horses, Don't They?",1969,['Sydney Pollack'],"['Horace McCoy', 'James Poe']"
+True Grit,1969,['Henry Hathaway'],"['Charles Portis', 'Marguerite Roberts']"
+Women in Love,1969,['Ken Russell'],"['D.H. Lawrence', 'Larry Kramer']"
+Z,1969,['Costa-Gavras'],"['Vasilis Vasilikos', 'Jorge Semprún']"
+2001: A Space Odyssey,1968,['Stanley Kubrick'],"['Stanley Kubrick', 'Arthur C. Clarke']"
+Astérix et Cléopâtre,1968,"['René Goscinny', 'Albert Uderzo']","['René Goscinny', 'Albert Uderzo']"
+Barbarella,1968,['Roger Vadim'],"['Jean-Claude Forest', 'Terry Southern']"
+The Boys of Paul Street,1968,['Zoltán Fábri'],"['Endre Bohem', 'Zoltán Fábri']"
+The Bride Wore Black,1968,['François Truffaut'],"['Cornell Woolrich', 'François Truffaut']"
+Bullitt,1968,['Peter Yates'],"['Alan Trustman', 'Harry Kleiner']"
+Carry On... Up the Khyber,1968,['Gerald Thomas'],['Talbot Rothwell']
+Charly,1968,['Ralph Nelson'],"['Daniel Keyes', 'Stirling Silliphant']"
+Destroy All Monsters,1968,['Ishirô Honda'],"['Ishirô Honda', 'Takeshi Kimura']"
+Dracula Has Risen from the Grave,1968,['Freddie Francis'],"['Anthony Hinds', 'Bram Stoker']"
+Egri csillagok,1968,['Zoltán Várkonyi'],"['Géza Gárdonyi', 'István Nemeskürty']"
+Funny Girl,1968,['William Wyler'],"['Isobel Lennart', 'Isobel Lennart']"
+Gamera vs. Viras,1968,['Noriaki Yuasa'],['Niisan Takahashi']
+Hang 'Em High,1968,['Ted Post'],"['Leonard Freeman', 'Mel Goldberg']"
+Head,1968,['Bob Rafelson'],"['Bob Rafelson', 'Jack Nicholson']"
+Hellfighters,1968,['Andrew V. McLaglen'],['Clair Huffaker']
+Hour of the Wolf,1968,['Ingmar Bergman'],['Ingmar Bergman']
+Ice Station Zebra,1968,['John Sturges'],"['Alistair MacLean', 'Douglas Heyes']"
+If....,1968,['Lindsay Anderson'],"['David Sherwin', 'David Sherwin']"
+Il giorno della civetta,1968,['Damiano Damiani'],"['Ugo Pirro', 'Damiano Damiani']"
+The Killing of Sister George,1968,['Robert Aldrich'],"['Frank Marcus', 'Lukas Heller']"
+The Lion in Winter,1968,['Anthony Harvey'],"['James Goldman', 'James Goldman']"
+Night of the Living Dead,1968,['George A. Romero'],"['John A. Russo', 'George A. Romero']"
+Once Upon a Time in the West,1968,['Sergio Leone'],"['Sergio Donati', 'Sergio Leone']"
+The Party,1968,['Blake Edwards'],"['Blake Edwards', 'Tom Waldman']"
+Planet of the Apes,1968,['Franklin J. Schaffner'],"['Michael Wilson', 'Rod Serling']"
+The Producers,1967,['Mel Brooks'],['Mel Brooks']
+Reconstruction,1970,['Lucian Pintilie'],"['Horia Patrascu', 'Horia Patrascu']"
+Romeo and Juliet,1968,['Franco Zeffirelli'],"['William Shakespeare', 'Franco Brusati']"
+Rosemary's Baby,1968,['Roman Polanski'],"['Ira Levin', 'Roman Polanski']"
+Star!,1968,['Robert Wise'],['William Fairchild']
+Horus: Prince of the Sun,1968,['Isao Takahata'],['Kazuo Fukazawa']
+Up the Junction,1968,['Peter Collinson'],"['Roger Smith', 'Nell Dunn']"
+Where Eagles Dare,1968,['Brian G. Hutton'],"['Alistair MacLean', 'Alistair MacLean']"
+Yellow Submarine,1968,['George Dunning'],"['Lee Minoff', 'John Lennon']"
+A Time for Killing,1967,"['Phil Karlson', 'Roger Corman']","['Nelson Wolford', 'Shirley Wolford']"
+Astérix le Gaulois,1967,['Ray Goossens'],"['René Goscinny', 'Albert Uderzo']"
+Barefoot in the Park,1967,['Gene Saks'],"['Neil Simon', 'Neil Simon']"
+Bedazzled,1967,['Stanley Donen'],"['Peter Cook', 'Peter Cook']"
+Belle de Jour,1967,['Luis Buñuel'],"['Joseph Kessel', 'Luis Buñuel']"
+Berserk,1967,"[""Jim O'Connolly""]","['Aben Kandel', 'Herman Cohen']"
+Bonnie and Clyde,1967,['Arthur Penn'],"['David Newman', 'Robert Benton']"
+Casino Royale,1967,"['Val Guest', 'Ken Hughes', '4 more credits']","['Wolf Mankowitz', 'John Law']"
+Cool Hand Luke,1967,['Stuart Rosenberg'],"['Donn Pearce', 'Frank Pierson']"
+Daikaijû kûchûsen: Gamera tai Gyaosu,1967,['Noriaki Yuasa'],['Niisan Takahashi']
+The Dirty Dozen,1967,['Robert Aldrich'],"['Nunnally Johnson', 'Lukas Heller']"
+Elvira Madigan,1967,['Bo Widerberg'],['Bo Widerberg']
+Dance of the Vampires,1967,['Roman Polanski'],"['Gérard Brach', 'Roman Polanski']"
+The Fox,1967,['Mark Rydell'],"['Lewis John Carlino', 'Howard Koch']"
+The Graduate,1967,['Mike Nichols'],"['Calder Willingham', 'Buck Henry']"
+Guess Who's Coming to Dinner,1967,['Stanley Kramer'],['William Rose']
+I Am Curious (Yellow),1967,['Vilgot Sjöman'],"['Lena Nyman', 'Vilgot Sjöman', 'Börje Ahlstedt']"
+In the Heat of the Night,1967,['Norman Jewison'],"['Stirling Silliphant', 'John Ball']"
+The Jungle Book,1967,['Wolfgang Reitherman'],"['Larry Clemmons', 'Ralph Wright']"
+Branded to Kill,1967,['Seijun Suzuki'],"['Hachiro Guryu', 'Hachiro Guryu']"
+La Collectionneuse,1967,['Éric Rohmer'],"['Patrick Bauchau', 'Haydée Politoff']"
+Le Samouraï,1967,['Jean-Pierre Melville'],"['Jean-Pierre Melville', 'Georges Pellegrin']"
+Marketa Lazarová,1967,['Frantisek Vlácil'],"['Frantisek Pavlícek', 'Vladislav Vancura']"
+Peppermint Frappé,1967,['Carlos Saura'],"['Rafael Azcona', 'Angelino Fons']"
+Playtime,1967,['Jacques Tati'],"['Jacques Tati', 'Jacques Lagrange']"
+Smashing Time,1967,['Desmond Davis'],['George Melly']
+Son of Godzilla,1967,['Jun Fukuda'],"[""Shin'ichi Sekizawa"", 'Kazue Shiba']"
+Thoroughly Modern Millie,1967,['George Roy Hill'],['Richard Morris']
+Two for the Road,1967,['Stanley Donen'],['Frederic Raphael']
+Uchû daikaijû Girara,1967,['Kazui Nihonmatsu'],"['Moriyoshi Ishida', 'Eibi Motomochi']"
+Valley of the Dolls,1967,['Mark Robson'],"['Jacqueline Susann', 'Helen Deutsch']"
+Wait Until Dark,1967,['Terence Young'],"['Frederick Knott', 'Robert Carrington']"
+Woman Times Seven,1967,['Vittorio De Sica'],['Cesare Zavattini']
+You Only Live Twice,1967,['Lewis Gilbert'],"['Harold Jack Bloom', 'Roald Dahl']"
+The Young Girls of Rochefort,1967,['Jacques Demy'],['Jacques Demy']
+A Big Hand for the Little Lady,1966,['Fielder Cook'],['Sidney Carroll']
+A Man for All Seasons,1966,['Fred Zinnemann'],"['Robert Bolt', 'Robert Bolt']"
+Alfie,1966,['Lewis Gilbert'],"['Bill Naughton', 'Bill Naughton']"
+Andrei Rublev,1966,['Andrei Tarkovsky'],"['Andrey Konchalovskiy', 'Andrei Tarkovsky']"
+Black Girl,1966,['Ousmane Sembene'],"['Ousmane Sembene', 'Ousmane Sembene']"
+Blood Bath,1966,"['Jack Hill', 'Stephanie Rothman']","['Jack Hill', 'Stephanie Rothman']"
+Blow-Up,1966,['Michelangelo Antonioni'],"['Michelangelo Antonioni', 'Julio Cortázar']"
+Cathy Come Home     ,None,['Ken Loach'],['Jeremy Sandford']
+Daikaijû kettô: Gamera tai Barugon,1966,['Shigeo Tanaka'],['Niisan Takahashi']
+Daimajin,1966,['Kimiyoshi Yasuda'],['Tetsurô Yoshida']
+Daisies,1966,['Vera Chytilová'],"['Vera Chytilová', 'Vera Chytilová']"
+Death Rides a Horse,1967,['Giulio Petroni'],['Luciano Vincenzoni']
+Django,1966,['Sergio Corbucci'],"['Sergio Corbucci', 'Bruno Corbucci']"
+Dracula: Prince of Darkness,1966,['Terence Fisher'],"['Jimmy Sangster', 'Anthony Hinds']"
+Late August at the Hotel Ozone,1967,['Jan Schmidt'],"['Pavel Jurácek', 'Pavel Jurácek']"
+Fahrenheit 451,1966,['François Truffaut'],"['François Truffaut', 'Jean-Louis Richard']"
+Fantastic Voyage,1966,['Richard Fleischer'],"['Harry Kleiner', 'David Duncan']"
+The Fortune Cookie,1966,['Billy Wilder'],"['Billy Wilder', 'I.A.L. Diamond']"
+Georgy Girl,1966,['Silvio Narizzano'],"['Margaret Forster', 'Margaret Forster']"
+Godzilla vs. the Sea Monster,1966,['Jun Fukuda'],"[""Shin'ichi Sekizawa""]"
+"The Good, the Bad and the Ugly",1966,['Sergio Leone'],"['Luciano Vincenzoni', 'Sergio Leone']"
+The Group,1966,['Sidney Lumet'],"['Mary McCarthy', 'Sidney Buchman']"
+How to Steal a Million,1966,['William Wyler'],"['George Bradshaw', 'Harry Kurnitz']"
+Jesse James Meets Frankenstein's Daughter,1966,['William Beaudine'],['Carl K. Hittleman']
+L'armata Brancaleone,1966,['Mario Monicelli'],"['Agenore Incrocci', 'Furio Scarpelli']"
+The Battle of Algiers,1966,['Gillo Pontecorvo'],"['Franco Solinas', 'Franco Solinas']"
+The Hunt,1966,['Carlos Saura'],"['Angelino Fons', 'Carlos Saura']"
+One Million Years B.C.,1966,['Don Chaffey'],"['Michael Carreras', 'Mickell Novack']"
+Our Man Flint,1966,['Daniel Mann'],"['Hal Fimberg', 'Ben Starr']"
+Persona,1966,['Ingmar Bergman'],['Ingmar Bergman']
+The Plague of the Zombies,1966,['John Gilling'],['Peter Bryan']
+Wrath of Daimajin,1966,['Kazuo Mori'],['Tetsurô Yoshida']
+The Sand Pebbles,1966,['Robert Wise'],"['Richard McKenna', 'Robert Anderson']"
+Tokyo Drifter,1966,['Seijun Suzuki'],"['Yasunori Kawauchi', 'Yasunori Kawauchi']"
+Torn Curtain,1966,['Alfred Hitchcock'],['Brian Moore']
+The Trouble with Angels,1966,['Ida Lupino'],"['Blanche Hanalis', 'Jane Trahey']"
+Who's Afraid of Virginia Woolf?,1966,['Mike Nichols'],['Ernest Lehman']
+Return of Daimajin,1966,['Kenji Misumi'],['Tetsurô Yoshida']
+A Study in Terror,1965,['James Hill'],"['Donald Ford', 'Derek Ford']"
+Alphaville,1965,['Jean-Luc Godard'],['Jean-Luc Godard']
+Bunny Lake Is Missing,1965,['Otto Preminger'],"['John Mortimer', 'Penelope Mortimer']"
+Daikaijû Gamera,1965,['Noriaki Yuasa'],['Niisan Takahashi']
+Darling,1965,['John Schlesinger'],"['Frederic Raphael', 'Frederic Raphael']"
+Devils of Darkness,1965,['Lance Comfort'],['Lyn Fairhurst']
+Doctor Zhivago,1965,['David Lean'],"['Boris Pasternak', 'Robert Bolt']"
+"Faster, Pussycat! Kill! Kill!",1965,['Russ Meyer'],"['Jackie Moran', 'Russ Meyer']"
+The Flight of the Phoenix,1965,['Robert Aldrich'],"['Lukas Heller', 'Trevor Dudley Smith']"
+For a Few Dollars More,1965,['Sergio Leone'],"['Sergio Leone', 'Fulvio Morsella']"
+Frankenstein Conquers the World,1965,['Ishirô Honda'],"['Reuben Bercovitch', 'Takeshi Kimura']"
+Gulliver's Travels Beyond the Moon,1965,['Yoshio Kuroda'],"[""Shin'ichi Sekizawa"", 'Jonathan Swift']"
+How to Murder Your Wife,1965,['Richard Quine'],['George Axelrod']
+Inside Daisy Clover,1965,['Robert Mulligan'],"['Gavin Lambert', 'Gavin Lambert']"
+Godzilla vs. Monster Zero,1965,['Ishirô Honda'],"[""Shin'ichi Sekizawa""]"
+The Ipcress File,1965,['Sidney J. Furie'],"['W.H. Canaway', 'James Doran']"
+Juliet of the Spirits,1965,['Federico Fellini'],"['Federico Fellini', 'Tullio Pinelli']"
+Kapurush,1965,['Satyajit Ray'],"['Premendra Mitra', 'Satyajit Ray']"
+Mne dvadtsat let,1965,['Marlen Khutsiev'],"['Marlen Khutsiev', 'Gennady Shpalikov']"
+The Pleasure Girls,1965,"[""Gerry O'Hara""]","[""Gerry O'Hara""]"
+Repulsion,1965,['Roman Polanski'],"['Roman Polanski', 'Gérard Brach']"
+The Sound of Music,1965,['Robert Wise'],"['George Hurdalek', 'Howard Lindsay']"
+That Darn Cat!,1965,['Robert Stevenson'],"['Gordon Gordon', 'Mildred Gordon']"
+Thunderball,1965,['Terence Young'],"['Richard Maibaum', 'John Hopkins']"
+Viva Maria!,1965,['Louis Malle'],"['Louis Malle', 'Jean-Claude Carrière']"
+A Hard Day's Night,1964,['Richard Lester'],['Alun Owen']
+A Shot in the Dark,1964,['Blake Edwards'],"['Blake Edwards', 'William Peter Blatty']"
+The Americanization of Emily,1964,['Arthur Hiller'],"['Paddy Chayefsky', 'William Bradford Huie']"
+Band of Outsiders,1964,['Jean-Luc Godard'],['Dolores Hitchens']
+Bedtime Story,1964,['Ralph Levy'],"['Stanley Shapiro', 'Paul Henning']"
+Bikini Beach,1964,['William Asher'],"['William Asher', 'Leo Townsend']"
+Carry On Cleo,1964,['Gerald Thomas'],"['Talbot Rothwell', 'William Shakespeare']"
+The Chalk Garden,1964,['Ronald Neame'],"['John Michael Hayes', 'Enid Bagnold']"
+Code Name: Tiger,1964,['Claude Chabrol'],"['Roger Hanin', 'Jean Halain']"
+Dead Ringer,1964,['Paul Henreid'],"['Albert Beich', 'Oscar Millard']"
+Der geteilte Himmel,1964,['Konrad Wolf'],"['Kurt Barthel', 'Willi Brückner']"
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,['Stanley Kubrick'],"['Stanley Kubrick', 'Terry Southern']"
+Fail-Safe,1964,['Sidney Lumet'],"['Walter Bernstein', 'Eugene Burdick']"
+First Men in the Moon,1964,['Nathan Juran'],"['Nigel Kneale', 'Jan Read']"
+"Ghidorah, the Three-Headed Monster",1964,['Ishirô Honda'],"[""Shin'ichi Sekizawa""]"
+Mothra vs. Godzilla,1964,['Ishirô Honda'],"[""Shin'ichi Sekizawa""]"
+Goldfinger,1964,['Guy Hamilton'],"['Richard Maibaum', 'Paul Dehn']"
+The Gospel According to St. Matthew,1964,['Pier Paolo Pasolini'],['Pier Paolo Pasolini']
+"Hush...Hush, Sweet Charlotte",1964,['Robert Aldrich'],"['Henry Farrell', 'Lukas Heller']"
+King & Country,1964,['Joseph Losey'],"['Evan Jones', 'John Wilson']"
+La tía Tula,1964,['Miguel Picazo'],"['José Miguel Hernán', 'Manuel López Yubero']"
+The Last Man on Earth,1964,"['Ubaldo Ragona', 'Sidney Salkow']","['William F. Leicester', 'Richard Matheson']"
+The Long Ships,1964,['Jack Cardiff'],"['Berkely Mather', 'Beverley Cross']"
+Man's Favorite Sport?,1964,['Howard Hawks'],"['Pat Frank', 'John Fenton Murray']"
+Marnie,1964,['Alfred Hitchcock'],"['Winston Graham', 'Jay Presson Allen']"
+Marriage Italian Style,1964,['Vittorio De Sica'],"['Eduardo De Filippo', 'Renato Castellani']"
+Mary Poppins,1964,['Robert Stevenson'],"['Bill Walsh', 'Don DaGradi']"
+My Fair Lady,1964,['George Cukor'],"['Alan Jay Lerner', 'George Bernard Shaw']"
+Gate of Flesh,1964,['Seijun Suzuki'],"['Taijirô Tamura', 'Gorô Tanada']"
+Onibaba,1964,['Kaneto Shindô'],['Kaneto Shindô']
+A Fistful of Dollars,1964,['Sergio Leone'],"['Adriano Bolzoni', 'Mark Lowell']"
+Red Desert,1964,['Michelangelo Antonioni'],"['Michelangelo Antonioni', 'Tonino Guerra']"
+Rudolph the Red-Nosed Reindeer,1964,['Larry Roemer'],"['Romeo Muller', 'Robert May']"
+Seduced and Abandoned,1964,['Pietro Germi'],"['Pietro Germi', 'Luciano Vincenzoni']"
+The Time Travelers,1964,['Ib Melchior'],"['Ib Melchior', 'Ib Melchior']"
+The Train,1964,"['John Frankenheimer', 'Arthur Penn']","['Franklin Coen', 'Frank Davis']"
+The Umbrellas of Cherbourg,1964,['Jacques Demy'],['Jacques Demy']
+The Unsinkable Molly Brown,1964,['Charles Walters'],"['Helen Deutsch', 'Richard Morris']"
+Viva Las Vegas,1964,['George Sidney'],['Sally Benson']
+Woman in the Dunes,1964,['Hiroshi Teshigahara'],"['Kôbô Abe', 'Kôbô Abe']"
+Zulu,1964,['Cy Endfield'],"['John Prebble', 'Cy Endfield']"
+55 Days at Peking,1963,"['Nicholas Ray', 'Guy Green']","['Robert Hamer', 'Philip Yordan']"
+8½,1963,['Federico Fellini'],"['Federico Fellini', 'Ennio Flaiano']"
+Atragon,1963,['Ishirô Honda'],"[""Shin'ichi Sekizawa"", 'Shunrô Oshikawa']"
+La boulangère de Monceau,1963,['Éric Rohmer'],"['Barbet Schroeder', 'Claudine Soubrier', 'Michèle Girardon']"
+Beach Party,1963,['William Asher'],['Lou Rusoff']
+The Birds,1963,['Alfred Hitchcock'],"['Daphne Du Maurier', 'Evan Hunter']"
+Bye Bye Birdie,1963,['George Sidney'],"['Michael Stewart', 'Irving Brecher']"
+Carry on Cabby,1963,['Gerald Thomas'],"['Talbot Rothwell', 'Sidney Green']"
+Charade,1963,['Stanley Donen'],"['Peter Stone', 'Peter Stone']"
+Contempt,1963,['Jean-Luc Godard'],['Alberto Moravia']
+Dementia 13,1963,['Francis Ford Coppola'],"['Francis Ford Coppola', 'Jack Hill']"
+The Executioner,1963,['Luis García Berlanga'],"['Luis García Berlanga', 'Rafael Azcona']"
+From Russia with Love,1963,['Terence Young'],"['Richard Maibaum', 'Johanna Harwood']"
+The Great Escape,1963,['John Sturges'],"['Paul Brickhill', 'James Clavell']"
+The Guest,1963,['Clive Donner'],['Harold Pinter']
+The Haunting,1963,['Robert Wise'],"['Nelson Gidding', 'Shirley Jackson']"
+The Incredible Journey,1963,['Fletcher Markle'],"['James Algar', 'Sheila Burnford']"
+Irma la Douce,1963,['Billy Wilder'],"['Alexandre Breffort', 'Billy Wilder']"
+The House Is Black,1963,['Forugh Farrokhzad'],['Forugh Farrokhzad']
+The Kiss of the Vampire,1963,['Don Sharp'],['Anthony Hinds']

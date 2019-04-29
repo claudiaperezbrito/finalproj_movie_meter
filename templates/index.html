@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+	<div class="row">
+		<div class="col-xl-12">
+
+        <h1 class="mt-5">Gender Movie Meter</h1>
+
+        <p class="lead">Choose a film to see its female representation onscreen and behind the scenes.</p>
+				<p><a href="{{ url_for('search') }}"> Search for another movie</a>
+		</div>
+  </div>
+
+<!-- pairs is a list that must be sent here by a route function-->
+<div class="col-xl-12 col-md-10 col-sm-12 alert alert-info p-4">
+    <ul>
+    {% for pair in pairs %}
+        <li><a href="{{ url_for( 'detail', num=pair[0] ) }}">{{ pair[1] }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
+<!-- Footer -->
+<footer class="page-footer font-small col-xl-12 col-md-10 col-sm-12">
+
+	<!-- credit -->
+	<div class="footer-copyright text-left py-3">Created by Claudia Perez Brito as a final project for the Advanced Web Apps course at the University of Florida.<br> Click<a heref="LINK TO GITHUB"> here </a>to view Github repo and see how this site was made.
+	</div>
+	<!-- credit -->
+
+</footer>
+<!-- Footer -->
+</div>
+
+{% endblock %}

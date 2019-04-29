@@ -1,0 +1,49 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Search for Films
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+	<div class="row">
+		<div class="col-xl-12">
+
+			<h1 class="mt-5">Gender Movie Meter</h1>
+			<p class='lead'><a href="http://bechdeltest.com">The Bechdel Test</a> is a test that measures the representation of women in fiction. The test has 4 levels of rating:	</p>
+			<div id='bechdel' class='bullets'>
+				<ol start="0">
+						<li>Fewer than two women in this movie.</li>
+						<li>There are two or more women in this movie, but they don't talk to each other.</li>
+						<li>There are two or more women in this movie, but they only talk to each other about a man.</li>
+						<li>There are two or more women in this movie and they talk to each other about something other than a man.</li>
+				</ol>
+		</div>
+			<p class="lead">Type in a movie title to search and see the measurement of female representation onscreen and behind the scenes.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-8 col-md-10 col-sm-12 alert alert-info p-4">
+
+			{{ wtf.quick_form(form) }}
+
+			<p class="mt-4"><strong>{{ message }}</strong></p>
+
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="page-footer font-small yellow">
+
+		<!-- credit -->
+	  <div class="footer-copyright text-left py-3">Created by Claudia Perez Brito as a final project for the Advanced Web Apps course at the University of Florida.<br> Click<a heref="LINK TO GITHUB"> here </a>to view Github repo and see how this site was made.
+	  </div>
+	  <!-- credit -->
+
+	</footer>
+	<!-- Footer -->
+</div>
+
+{% endblock %}

@@ -1,0 +1,681 @@
+movie_name,movie_yr,movie_directors,movie_writers
+Mr. Holmes,2015,['Bill Condon'],"['Mitch Cullin', 'Jeffrey Hatcher']"
+The Murder Pact,2015,['Colin Theys'],['John Doolan']
+Mustang,2015,['Deniz Gamze Ergüven'],"['Deniz Gamze Ergüven', 'Alice Winocour']"
+My Little Pony: Equestria Girls - Friendship Games,2015,"['Ishi Rudell', 'Jayson Thiessen']",['Josh Haber']
+Mythica: The Darkspore,2015,['Anne K. Black'],"['Anne K. Black', 'Jason Faller']"
+Never Let Go,2015,['Howard J. Ford'],['Howard J. Ford']
+Next Stop L.A.,2015,['Oliver Clark'],['Alexandra Taylor']
+Nil Battey Sannata,2015,['Ashwiny Iyer Tiwari'],"['Nitesh Tiwari', 'Ashwiny Iyer Tiwari']"
+Hua li shang ban zu,2015,['Johnnie To'],['Sylvia Chang']
+Other Halves,2015,['Matthew T. Price'],"['Matthew T. Price', 'Kelly Morr']"
+Our Little Sister,2015,['Hirokazu Koreeda'],"['Akimi Yoshida', 'Hirokazu Koreeda']"
+The Overnight,2015,['Patrick Brice'],['Patrick Brice']
+Pan,2015,['Joe Wright'],"['Jason Fuchs', 'J.M. Barrie']"
+Paper Towns,2015,['Jake Schreier'],"['Scott Neustadter', 'Michael H. Weber']"
+Parched,2015,['Leena Yadav'],"['Supratik Sen', 'Leena Yadav']"
+Pawn Sacrifice,2014,['Edward Zwick'],"['Steven Knight', 'Stephen J. Rivele']"
+The Peanuts Movie,2015,['Steve Martino'],"['Craig Schulz', 'Bryan Schulz']"
+The Perfect Guy,2015,['David M. Rosenthal'],"['Alan B. McElroy', 'Tyger Williams']"
+The Phoenix Incident,2015,['Keith Arem'],['Keith Arem']
+The Phoenix Project,2015,['Tyler Graham Pavey'],['Tyler Graham Pavey']
+Pitch Perfect 2,2015,['Elizabeth Banks'],"['Kay Cannon', 'Mickey Rapkin']"
+Pixels,2015,['Chris Columbus'],"['Tim Herlihy', 'Timothy Dowling']"
+Point Break,2015,['Ericson Core'],"['Kurt Wimmer', 'Rick King']"
+Portrait of a Serial Monogamist,2015,"['John Mitchell', 'Christina Zeidler']","['John Mitchell', 'Christina Zeidler']"
+Predator Dark Ages,2015,['James Bushe'],['James Bushe']
+Psychosis,2015,['Darryl Sloan'],['Darryl Sloan']
+Que Horas Ela Volta?,2015,['Anna Muylaert'],['Anna Muylaert']
+Queen of Earth,2015,['Alex Ross Perry'],['Alex Ross Perry']
+The Reason I Shop Online,2015,['Rob Lainchbury'],['Alexandra Taylor']
+The Revenant,2015,['Alejandro G. Iñárritu'],"['Mark L. Smith', 'Alejandro G. Iñárritu']"
+Riaru onigokko,2015,['Sion Sono'],"['Yûsuke Yamada', 'Sion Sono']"
+Ricki and the Flash,2015,['Jonathan Demme'],['Diablo Cody']
+The Ridiculous 6,2015,['Frank Coraci'],"['Tim Herlihy', 'Adam Sandler']"
+Roald Dahl's Esio Trot,2015,['Dearbhla Walsh'],"['Richard Curtis', 'Paul Mayhew-Archer']"
+Room,2015,['Lenny Abrahamson'],"['Emma Donoghue', 'Emma Donoghue']"
+Run All Night,2015,['Jaume Collet-Serra'],['Brad Ingelsby']
+San Andreas,2015,['Brad Peyton'],"['Carlton Cuse', 'Andre Fabrizio']"
+Schneider vs. Bax,2015,['Alex van Warmerdam'],['Alex van Warmerdam']
+Scouts Guide to the Zombie Apocalypse,2015,['Christopher Landon'],"['Carrie Lee Wilson', 'Emi Mochizuki']"
+The Second Best Exotic Marigold Hotel,2015,['John Madden'],"['Ol Parker', 'Ol Parker']"
+Self/less,2015,['Tarsem Singh'],"['Àlex Pastor', 'David Pastor']"
+Septembers of Shiraz,2015,['Wayne Blair'],"['Dalia Sofer', 'Hanna Weg']"
+Sharknado 3: Oh Hell No!,2015,['Anthony C. Ferrante'],['Thunder Levin']
+Shaun the Sheep Movie,2015,"['Mark Burton', 'Richard Starzak']","['Mark Burton', 'Richard Starzak']"
+Shisha no teikoku,2015,['Ryôtarô Makihara'],"['Project Itoh', 'Tô Enjo']"
+Sicario,2015,['Denis Villeneuve'],['Taylor Sheridan']
+The Sin Seer,2015,['Paul D. Hannah'],"['Paul D. Hannah', 'Paul D. Hannah']"
+Sisters,2015,['Jason Moore'],['Paula Pell']
+Sleeping with Other People,2015,['Leslye Headland'],['Leslye Headland']
+Slow Learners,2015,"['Don Argott', 'Sheena M. Joyce']","['Heather Maidat', 'Heather Maidat']"
+Slow West,2015,['John Maclean'],['John Maclean']
+Southpaw,2015,['Antoine Fuqua'],['Kurt Sutter']
+Spectre,2015,['Sam Mendes'],"['John Logan', 'Neal Purvis']"
+The SpongeBob Movie: Sponge Out of Water,2015,"['Paul Tibbitt', 'Mike Mitchell']","['Glenn Berger', 'Jonathan Aibel']"
+Spotlight,2015,['Tom McCarthy'],"['Josh Singer', 'Tom McCarthy']"
+Spy,2015,['Paul Feig'],['Paul Feig']
+The Stanford Prison Experiment,2015,['Kyle Patrick Alvarez'],"['Tim Talbott', 'Philip Zimbardo']"
+Star Wars: Episode VII - The Force Awakens,2015,['J.J. Abrams'],"['Lawrence Kasdan', 'J.J. Abrams']"
+The Steps,2015,['Andrew Currie'],['Robyn Harding']
+Steve Jobs,2015,['Danny Boyle'],"['Aaron Sorkin', 'Walter Isaacson']"
+Stitcher,2015,"['Barra Convery', 'Michael McAndrew']",None
+Straight Outta Compton,2015,['F. Gary Gray'],"['Jonathan Herman', 'Andrea Berloff']"
+Strange Magic,2015,['Gary Rydstrom'],"['David Berenbaum', 'Irene Mecchi']"
+Suffragette,2015,['Sarah Gavron'],['Abi Morgan']
+Sangailes vasara,2015,['Alante Kavaite'],['Alante Kavaite']
+Sunset Song,2015,['Terence Davies'],"['Lewis Grassic Gibbon', 'Terence Davies']"
+Survivor,2015,['James McTeigue'],['Philip Shelby']
+Sweet Bean,2015,['Naomi Kawase'],"['Durian Sukegawa', 'Naomi Kawase']"
+Synchronicity,2015,['Jacob Gentry'],"['Jacob Gentry', 'Alex Orr']"
+Tangerine,2015,['Sean Baker'],"['Sean Baker', 'Chris Bergoch']"
+Taxi,2015,['Jafar Panahi'],['Jafar Panahi']
+Ted 2,2015,['Seth MacFarlane'],"['Seth MacFarlane', 'Alec Sulkin']"
+Teen Beach 2,2015,['Jeffrey Hornaday'],"['Matt Eddy', 'Billy Eddy']"
+Tempête,2015,['Samuel Collardey'],"['Samuel Collardey', 'Catherine Paillé']"
+Terminator Genisys,2015,['Alan Taylor'],"['Laeta Kalogridis', 'Patrick Lussier']"
+Testament of Youth,2014,['James Kent'],"['Vera Brittain', 'Juliette Towhidi']"
+They Call Me Jeeg,2015,['Gabriele Mainetti'],"['Nicola Guaglianone', 'Nicola Guaglianone']"
+This Changes Everything,2015,['Avi Lewis'],['Naomi Klein']
+The Three Es,2015,['Jason Aaron Goldberg'],['Jason Aaron Goldberg']
+Sado,2015,['Joon-ik Lee'],"['Cheol-Hyeon Jo', 'Song-won Lee']"
+Tiger House,2015,['Thomas Daley'],['Simon Lewis']
+Till We Meet Again,2016,['Bank Tangjaitrong'],"['Johan Matton', 'Johan Matton']"
+Timelike,2015,['Richard Boylan'],['Richard Boylan']
+Titli,2014,['Kanu Behl'],"['Kanu Behl', 'Sharat Katariya']"
+Tjuvheder,2015,['Peter Grönlund'],['Peter Grönlund']
+Tod den Hippies!! Es lebe der Punk!,2015,['Oskar Roehler'],['Oskar Roehler']
+Tomorrowland,2015,['Brad Bird'],"['Damon Lindelof', 'Brad Bird']"
+Trainwreck,2015,['Judd Apatow'],['Amy Schumer']
+The Transporter Refueled,2015,['Camille Delamarre'],"['Adam Cooper', 'Bill Collage']"
+True Story,2015,['Rupert Goold'],"['Rupert Goold', 'David Kajganich']"
+Trumbo,2015,['Jay Roach'],"['John McNamara', 'Bruce Cook']"
+Trust Fund,2016,['Sandra L. Martin'],['Sandra L. Martin']
+Turbo Kid,2015,"['François Simard', 'Anouk Whissell', '1 more credit']","['Anouk Whissell', 'François Simard']"
+"Un peu, beaucoup, aveuglément!",2015,['Clovis Cornillac'],"['Lilou Fogli', 'Clovis Cornillac']"
+Uncanny,2015,['Matthew Leutwyler'],['Shahin Chandrasoma']
+Unexpected,2015,['Kris Swanberg'],"['Megan Mercier', 'Kris Swanberg']"
+Unfinished Business,2015,['Ken Scott'],['Steve Conrad']
+Until Dawn,2015,['Will Byles'],"['Larry Fessenden', 'Graham Reznick']"
+Vacation,2015,"['John Francis Daley', 'Jonathan Goldstein']","['Jonathan Goldstein', 'John Francis Daley']"
+Vampyres,2015,['Víctor Matellano'],"['José Ramón Larraz', 'Víctor Matellano']"
+VANish,2015,['Bryan Bockbrader'],['Bryan Bockbrader']
+Vice,2015,['Brian A. Miller'],"['Andre Fabrizio', 'Jeremy Passmore']"
+Victor Frankenstein,2015,['Paul McGuigan'],"['Max Landis', 'Max Landis']"
+Victoria,2015,['Sebastian Schipper'],"['Sebastian Schipper', 'Olivia Neergaard-Holm']"
+The Visit,2015,['M. Night Shyamalan'],['M. Night Shyamalan']
+The VVitch: A New-England Folktale,2015,['Robert Eggers'],['Robert Eggers']
+The Walk,2015,['Robert Zemeckis'],"['Robert Zemeckis', 'Christopher Browne']"
+Bølgen,2015,['Roar Uthaug'],"['John Kåre Raake', 'Harald Rosenløw-Eeg']"
+The Wedding Ringer,2015,['Jeremy Garelick'],"['Jeremy Garelick', 'Jay Lavender']"
+Wo shi zheng ren,2015,['Sang-hoon Ahn'],"['Xiaobai Gu', 'Andy Yoon']"
+Woman in Gold,2015,['Simon Curtis'],"['Alexi Kaye Campbell', 'E. Randol Schoenberg']"
+World of Tomorrow,2015,['Don Hertzfeldt'],['Don Hertzfeldt']
+You're My Boss,2015,['Antoinette Jadaone'],"['Antoinette Jadaone', 'Yoshke Dimen']"
+Youth,2015,['Paolo Sorrentino'],['Paolo Sorrentino']
+Z for Zachariah,2015,['Craig Zobel'],"['Nissar Modi', ""Robert C. O'Brien""]"
+'71,2014,['Yann Demange'],['Gregory Burke']
+22 Jump Street,2014,"['Phil Lord', 'Christopher Miller']","['Michael Bacall', 'Oren Uziel']"
+3 Days to Kill,2014,['McG'],"['Adi Hasak', 'Luc Besson']"
+300: Rise of an Empire,2014,['Noam Murro'],"['Zack Snyder', 'Kurt Johnstad']"
+5 Flights Up,2014,['Richard Loncraine'],"['Charlie Peters', 'Jill Ciment']"
+A Brilliant Young Mind,2014,['Morgan Matthews'],['James Graham']
+À coup sûr,2014,['Delphine de Vigan'],"['Delphine de Vigan', 'Delphine de Vigan']"
+A Girl Walks Home Alone at Night,2014,['Ana Lily Amirpour'],['Ana Lily Amirpour']
+A Long Way Down,2014,['Pascal Chaumeil'],"['Nick Hornby', 'Jack Thorne']"
+A Million Ways to Die in the West,2014,['Seth MacFarlane'],"['Seth MacFarlane', 'Alec Sulkin']"
+A Most Violent Year,2014,['J.C. Chandor'],['J.C. Chandor']
+A Most Wanted Man,2014,['Anton Corbijn'],"['Andrew Bovell', 'John le Carré']"
+A Noite da Virada,2014,['Fábio Mendonça'],"['Nina Crintzs', 'Cláudia Jouvin']"
+A Walk Among the Tombstones,2014,['Scott Frank'],"['Lawrence Block', 'Scott Frank']"
+About a Girl,2014,['Mark Monheim'],"['Mark Monheim', 'Martin Rehbock']"
+About Last Night,2014,['Steve Pink'],"['Leslye Headland', 'Tim Kazurinsky']"
+The Adventurer: The Curse of the Midas Box,2013,['Jonathan Newman'],"['Christian Taylor', 'Matthew Huffman']"
+The Quiche of Death     ,None,['Geoffrey Sax'],"['M.C. Beaton', 'Stewart Harcourt']"
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,['Miguel Arteta'],"['Rob Lieber', 'Rob Lieber']"
+Alles inklusive,2014,['Doris Dörrie'],"['Doris Dörrie', 'Doris Dörrie']"
+Aloft,2014,['Claudia Llosa'],['Claudia Llosa']
+Alpha House,2014,['Jacob Cooney'],"['Jacob Cooney', 'Brandon Trenz']"
+The Amazing Spider-Man 2,2014,['Marc Webb'],"['Alex Kurtzman', 'Roberto Orci']"
+American Sniper,2014,['Clint Eastwood'],"['Jason Hall', 'Chris Kyle']"
+Amour Fou,2014,['Jessica Hausner'],"['Jessica Hausner', 'Géraldine Bajard']"
+Anatomy of a Love Seen,2014,['Marina Rice Bader'],['Marina Rice Bader']
+Angry Video Game Nerd: The Movie,2014,"['Kevin Finn', 'James Rolfe']","['Kevin Finn', 'James Rolfe']"
+Annabelle,2014,['John R. Leonetti'],['Gary Dauberman']
+Annie,2014,['Will Gluck'],"['Will Gluck', 'Aline Brosh McKenna']"
+Appropriate Behavior,2014,['Desiree Akhavan'],['Desiree Akhavan']
+Ardor,2014,['Pablo Fendrik'],['Pablo Fendrik']
+"As Above, So Below",2014,['John Erick Dowdle'],"['John Erick Dowdle', 'Drew Dowdle']"
+Asian School Girls,2014,['Lawrence Silverstein'],['Tim Culley']
+Ask Me Anything,2014,['Allison Burnett'],"['Allison Burnett', 'Allison Burnett']"
+Atlas Shrugged: Who Is John Galt?,2014,['James Manera'],"['James Manera', 'Harmon Kaslow']"
+Automata,2014,['Gabe Ibáñez'],"['Gabe Ibáñez', 'Igor Legarreta']"
+Avis de mistral,2014,['Rose Bosch'],['Rose Bosch']
+The Babadook,2014,['Jennifer Kent'],['Jennifer Kent']
+The Bag Man,2014,['David Grovic'],"['David Grovic', 'Paul Conway']"
+Barbie and the Secret Door,2014,['Karen J. Lloyd'],['Brian Hohlfeld']
+Barbie: The Pearl Princess,2014,['Ezekiel Norton'],"['Cydne Clark', 'Steve Granat']"
+Barefoot,2014,['Andrew Fleming'],['Stephen Zotnowski']
+Batman: Assault on Arkham,2014,"['Jay Oliva', 'Ethan Spaulding']","['Heath Corson', 'Bob Kane']"
+Before I Go to Sleep,2014,['Rowan Joffe'],"['Rowan Joffe', 'S.J. Watson']"
+Before We Go,2014,['Chris Evans'],"['Ronald Bass', 'Jen Smolka']"
+Begin Again,2013,['John Carney'],['John Carney']
+Belle,2013,['Amma Asante'],['Misan Sagay']
+Better Living Through Chemistry,2014,"['Geoff Moore', 'David Posamentier']","['Geoff Moore', 'David Posamentier']"
+Beyond the Lights,2014,['Gina Prince-Bythewood'],['Gina Prince-Bythewood']
+Big Eyes,2014,['Tim Burton'],"['Scott Alexander', 'Larry Karaszewski']"
+Big Game,2014,['Jalmari Helander'],"['Jalmari Helander', 'Jalmari Helander']"
+Big Hero 6,2014,"['Don Hall', 'Chris Williams']","['Jordan Roberts', 'Robert L. Baird']"
+Birdman or (The Unexpected Virtue of Ignorance),2014,['Alejandro G. Iñárritu'],"['Alejandro G. Iñárritu', 'Nicolás Giacobone']"
+Black Sea,2014,['Kevin Macdonald'],['Dennis Kelly']
+Blended,2014,['Frank Coraci'],"['Ivan Menchell', 'Clare Sera']"
+The Book of Life,2014,['Jorge R. Gutiérrez'],"['Jorge R. Gutiérrez', 'Doug Langdale']"
+The Boxtrolls,2014,"['Graham Annable', 'Anthony Stacchi']","['Irena Brignull', 'Adam Pava']"
+Boy Meets Girl,2014,['Eric Schaeffer'],['Eric Schaeffer']
+Boyhood,2014,['Richard Linklater'],['Richard Linklater']
+Brick Mansions,2014,['Camille Delamarre'],"['Luc Besson', 'Luc Besson']"
+Cake,2014,['Daniel Barnz'],['Patrick Tobin']
+Calvary,2014,['John Michael McDonagh'],['John Michael McDonagh']
+Camp Takota,2014,"['Chris Riedell', 'Nick Riedell']","['Mamrie Hart', 'Michael Goldfine']"
+Captain America: The Winter Soldier,2014,"['Anthony Russo', 'Joe Russo']","['Christopher Markus', 'Stephen McFeely']"
+Cesar Chavez,2014,['Diego Luna'],"['Keir Pearson', 'Timothy J. Sexton']"
+Chef,2014,['Jon Favreau'],['Jon Favreau']
+Citizenfour,2014,['Laura Poitras'],"['Edward Snowden', 'Glenn Greenwald', 'William Binney']"
+Clouds of Sils Maria,2014,['Olivier Assayas'],['Olivier Assayas']
+Clown,2014,['Jon Watts'],"['Christopher Ford', 'Jon Watts']"
+Comet,2014,['Sam Esmail'],['Sam Esmail']
+Conducta,2014,['Ernesto Daranas'],"['Ernesto Daranas', 'Ania Molina']"
+Cooties,2014,"['Jonathan Milott', 'Cary Murnion']","['Leigh Whannell', 'Ian Brennan']"
+Court,2014,['Chaitanya Tamhane'],['Chaitanya Tamhane']
+Creep,2014,['Patrick Brice'],"['Patrick Brice', 'Mark Duplass']"
+Cuban Fury,2014,['James Griffiths'],"['Jon Brown', 'Nick Frost']"
+Cut Bank,2014,['Matt Shakman'],['Roberto Patino']
+Da Sweet Blood of Jesus,2014,['Spike Lee'],"['Spike Lee', 'Bill Gunn']"
+The Damned Thing,2014,['Derrick Granado'],['Derrick Granado']
+Dark Was the Night,2014,['Jack Heller'],['Tyler Hisel']
+Date and Switch,2014,['Chris Nelson'],['Alan Yang']
+Dawn of the Planet of the Apes,2014,['Matt Reeves'],"['Mark Bomback', 'Rick Jaffa']"
+Dead Girls,2014,"['Neal E. Fischer', 'Del Harvey']","['Neal E. Fischer', 'Del Harvey']"
+Død snø 2,2014,['Tommy Wirkola'],"['Tommy Wirkola', 'Vegar Hoel']"
+Dear White People,2014,['Justin Simien'],['Justin Simien']
+Deliver Us from Evil,2014,['Scott Derrickson'],"['Scott Derrickson', 'Paul Harris Boardman']"
+Der kleine Drache Kokosnuss,2014,"['Hubert Weiland', 'Nina Wels']","['Mark Slater', 'Gabriele Walther']"
+Der kleine Medicus - Geheimnisvolle Mission im Körper,2014,['Peter Claridge'],"['Dietrich Grönemeyer', 'Elfie Donnelly']"
+Der Kreis,2014,['Stefan Haupt'],"['Stefan Haupt', 'Christian Felix']"
+The Disappearance of Eleanor Rigby: Her,2013,['Ned Benson'],['Ned Benson']
+The Disappearance of Eleanor Rigby: Them,2014,['Ned Benson'],['Ned Benson']
+Divergent,2014,['Neil Burger'],"['Evan Daugherty', 'Vanessa Taylor']"
+Dohee-ya,2014,['July Jung'],['July Jung']
+Dólares de arena,2014,"['Israel Cárdenas', 'Laura Amelia Guzmán']","['Israel Cárdenas', 'Laura Amelia Guzmán']"
+Dolphin Tale 2,2014,['Charles Martin Smith'],"['Charles Martin Smith', 'Karen Janszen']"
+Dracula Untold,2014,['Gary Shore'],"['Matt Sazama', 'Burk Sharpless']"
+Draft Day,2014,['Ivan Reitman'],"['Scott Rothman', 'Rajiv Joseph']"
+The Drop,2014,['Michaël R. Roskam'],"['Dennis Lehane', 'Dennis Lehane']"
+Dumb and Dumber To,2014,"['Bobby Farrelly', 'Peter Farrelly']","['Sean Anders', 'John Morris']"
+Dyke Hard,2014,['Bitte Andersson'],"['Ina Wood', 'Bitte Andersson']"
+Earth to Echo,2014,['Dave Green'],"['Henry Gayden', 'Henry Gayden']"
+East Side Sushi,2014,['Anthony Lucero'],['Anthony Lucero']
+Eat with Me,2014,['David Au'],['David Au']
+Edge of Tomorrow,2014,['Doug Liman'],"['Christopher McQuarrie', 'Jez Butterworth']"
+Effie Gray,2014,['Richard Laxton'],['Emma Thompson']
+Ei kiitos,2014,['Samuli Valkama'],"['Anna-Leena Härkönen', 'Heikki Paavilainen']"
+Ein Geschenk der Götter,2014,['Oliver Haffner'],"['Oliver Haffner', 'Oliver Haffner']"
+Ek Villain,2014,['Mohit Suri'],"['Tushar Hiranandani', 'Milap Zaveri']"
+El Niño,2014,['Daniel Monzón'],"['Jorge Guerricaechevarría', 'Daniel Monzón']"
+Electricity,2014,['Bryn Higgins'],"['Sukey Fisher', 'Sukey Fisher']"
+En duva satt på en gren och funderade på tillvaron,2014,['Roy Andersson'],['Roy Andersson']
+The Equalizer,2014,['Antoine Fuqua'],"['Richard Wenk', 'Michael Sloan']"
+Escobar: Paradise Lost,2014,['Andrea Di Stefano'],"['Andrea Di Stefano', 'Andrea Di Stefano']"
+Every Secret Thing,2014,['Amy Berg'],"['Nicole Holofcener', 'Laura Lippman']"
+Exodus: Gods and Kings,2014,['Ridley Scott'],"['Adam Cooper', 'Bill Collage']"
+The Expendables 3,2014,['Patrick Hughes'],"['Sylvester Stallone', 'Creighton Rothenberger']"
+The Falling,2014,['Carol Morley'],['Carol Morley']
+The Fault in Our Stars,2014,['Josh Boone'],"['Scott Neustadter', 'Michael H. Weber']"
+Faults,2014,['Riley Stearns'],['Riley Stearns']
+Fehér isten,2014,['Kornél Mundruczó'],"['Kornél Mundruczó', 'Viktória Petrányi']"
+Fields of the Dead,2014,['Daniel B. Iske'],['Scott Coleman']
+Flowers in the Attic,2014,['Deborah Chow'],"['Virginia C. Andrews', 'Kayla Alpert']"
+Fort Tilden,2014,"['Sarah-Violet Bliss', 'Charles Rogers']","['Sarah-Violet Bliss', 'Sarah-Violet Bliss']"
+Foxcatcher,2014,['Bennett Miller'],"['E. Max Frye', 'Dan Futterman']"
+The Frame,2014,['Jamin Winans'],['Jamin Winans']
+Frank,2014,['Lenny Abrahamson'],"['Jon Ronson', 'Peter Straughan']"
+Frozen in Time,2014,['Alex Leung'],['Melissa Rundle']
+Fury,2014,['David Ayer'],['David Ayer']
+The Gabby Douglas Story,2014,['Gregg Champion'],"['Maria Nation', 'Sterling Anderson']"
+Get on Up,2014,['Tate Taylor'],"['Jez Butterworth', 'John-Henry Butterworth']"
+Bande de filles,2014,['Céline Sciamma'],['Céline Sciamma']
+Girltrash: All Night Long,2014,['Alexandra Kondracke'],['Angela Robinson']
+The Giver,2014,['Phillip Noyce'],"['Michael Mitnick', 'Robert B. Weide']"
+God Help the Girl,2014,['Stuart Murdoch'],['Stuart Murdoch']
+God's Not Dead,2014,['Harold Cronk'],"['Hunter Dennis', 'Chuck Konzelman']"
+God's Pocket,2014,['John Slattery'],"['Peter Dexter', 'Alex Metcalf']"
+Godzilla,2014,['Gareth Edwards'],"['Max Borenstein', 'Dave Callaham']"
+Huang jin shi dai,2014,['Ann Hui'],['Qiang Li']
+Gone Girl,2014,['David Fincher'],"['Gillian Flynn', 'Gillian Flynn']"
+The Good Lie,2014,['Philippe Falardeau'],['Margaret Nagle']
+Good People,2014,['Henrik Ruben Genz'],"['Marcus Sakey', 'Kelly Masterson']"
+Gotham     ,None,['Bruno Heller'],"['Ben McKenzie', 'Jada Pinkett Smith', 'Donal Logue']"
+Grace of Monaco,2014,['Olivier Dahan'],['Arash Amel']
+The Grand Budapest Hotel,2014,['Wes Anderson'],"['Stefan Zweig', 'Wes Anderson']"
+Guardians of the Galaxy,2014,['James Gunn'],"['James Gunn', 'Nicole Perlman']"
+Güeros,2014,['Alonso Ruizpalacios'],"['Alonso Ruizpalacios', 'Gibrán Portela']"
+H.,2014,"['Rania Attieh', 'Daniel Garcia']","['Rania Attieh', 'Rania Attieh']"
+Haider,2014,['Vishal Bhardwaj'],"['William Shakespeare', 'Basharat Peer']"
+Happy Christmas,2014,['Joe Swanberg'],['Joe Swanberg']
+Hard Corner: Le Film,2014,['Benjamin Daniel'],['Benjamin Daniel']
+Heaven Is for Real,2014,['Randall Wallace'],"['Randall Wallace', 'Chris Parker']"
+Hector and the Search for Happiness,2014,['Peter Chelsom'],"['Maria von Heland', 'Peter Chelsom']"
+Hercules,2014,['Brett Ratner'],"['Ryan J. Condal', 'Evan Spiliotopoulos']"
+Hits,2014,['David Cross'],['David Cross']
+The Hobbit: The Battle of the Five Armies,2014,['Peter Jackson'],"['Fran Walsh', 'Philippa Boyens']"
+Hoje Eu Quero Voltar Sozinho,2014,['Daniel Ribeiro'],['Daniel Ribeiro']
+The Homesman,2014,['Tommy Lee Jones'],"['Tommy Lee Jones', 'Kieran Fitzgerald']"
+Horrible Bosses 2,2014,['Sean Anders'],"['Sean Anders', 'John Morris']"
+Housebound,2014,['Gerard Johnstone'],['Gerard Johnstone']
+The Houses October Built,2014,['Bobby Roe'],"['Zack Andrews', 'Bobby Roe']"
+Gae-leul hoom-chi-neun wan-byeok-han bang-beob,2014,['Sung-ho Kim'],"['Sung-ho Kim', 'Yeon-Shick Shin']"
+How to Train Your Dragon 2,2014,['Dean DeBlois'],"['Dean DeBlois', 'Cressida Cowell']"
+The Hundred-Foot Journey,2014,['Lasse Hallström'],"['Steven Knight', 'Richard C. Morais']"
+The Hunger Games: Mockingjay - Part 1,2014,['Francis Lawrence'],"['Peter Craig', 'Danny Strong']"
+Hungry Hearts,2014,['Saverio Costanzo'],"['Saverio Costanzo', 'Marco Franzoso']"
+I Call It Love,2014,['Elsy Hajjar'],"['Sandy Andraos', 'Myriam Geagea']"
+I Origins,2014,['Mike Cahill'],['Mike Cahill']
+"I, Frankenstein",2014,['Stuart Beattie'],"['Stuart Beattie', 'Kevin Grevioux']"
+Goodnight Mommy,2014,"['Severin Fiala', 'Veronika Franz']","['Veronika Franz', 'Severin Fiala']"
+If I Stay,2014,['R.J. Cutler'],"['Shauna Cross', 'Gayle Forman']"
+The Imitation Game,2014,['Morten Tyldum'],"['Graham Moore', 'Andrew Hodges']"
+Dans la cour,2014,['Pierre Salvadori'],"['Pierre Salvadori', 'David Léotard']"
+The Inbetweeners 2,2014,"['Damon Beesley', 'Iain Morris']","['Damon Beesley', 'Iain Morris']"
+Infinitely Polar Bear,2014,['Maya Forbes'],['Maya Forbes']
+Inherent Vice,2014,['Paul Thomas Anderson'],"['Paul Thomas Anderson', 'Thomas Pynchon']"
+Innocence,2013,['Hilary Brougher'],"['Hilary Brougher', 'Tristine Skyler']"
+Interstellar,2014,['Christopher Nolan'],"['Jonathan Nolan', 'Christopher Nolan']"
+The Interview,2014,"['Evan Goldberg', 'Seth Rogen']","['Dan Sterling', 'Seth Rogen']"
+Into the Storm,2014,['Steven Quale'],['John Swetnam']
+Into the Woods,2014,['Rob Marshall'],"['James Lapine', 'James Lapine']"
+It Follows,2014,['David Robert Mitchell'],['David Robert Mitchell']
+Jack Ryan: Shadow Recruit,2014,['Kenneth Branagh'],"['Adam Cozad', 'David Koepp']"
+Jacky in the Kingdom of Women,2014,['Riad Sattouf'],['Riad Sattouf']
+Jane the Virgin     ,None,['Jennie Snyder Urman'],"['Gina Rodriguez', 'Andrea Navedo', 'Justin Baldoni']"
+Jersey Boys,2014,['Clint Eastwood'],"['Marshall Brickman', 'Rick Elice']"
+Jimmy's Hall,2014,['Ken Loach'],['Paul Laverty']
+Joe,2013,['David Gordon Green'],"['Gary Hawkins', 'Larry Brown']"
+John Wick,2014,"['Chad Stahelski', 'David Leitch']",['Derek Kolstad']
+Jongens,2014,['Mischa Kamp'],"['Chris Westendorp', 'Jaap-Peter Enderle']"
+Ju-on: Owari no hajimari,2014,['Masayuki Ochiai'],"['Masayuki Ochiai', 'Takashige Ichise']"
+The Judge,2014,['David Dobkin'],"['Nick Schenk', 'Bill Dubuque']"
+Justice League: War,2014,['Jay Oliva'],"['Heath Corson', 'Geoff Johns']"
+Kingsman: The Secret Service,2014,['Matthew Vaughn'],"['Jane Goldman', 'Matthew Vaughn']"
+Kraftidioten,2014,['Hans Petter Moland'],"['Kim Fupz Aakeson', 'Finn Gjerdrum']"
+"Kumiko, the Treasure Hunter",2014,['David Zellner'],"['David Zellner', 'Nathan Zellner']"
+La belle et la bête,2014,['Christophe Gans'],"['Sandra Vo-Anh', 'Christophe Gans']"
+La crème de la crème,2014,['Kim Chapiron'],"['Noé Debré', 'Kim Chapiron']"
+La isla mínima,2014,['Alberto Rodríguez'],"['Rafael Cobos', 'Alberto Rodríguez']"
+Laggies,2014,['Lynn Shelton'],['Andrea Seigel']
+Land Ho!,2014,"['Aaron Katz', 'Martha Stephens']","['Aaron Katz', 'Martha Stephens']"
+The Last Five Years,2014,['Richard LaGravenese'],"['Jason Robert Brown', 'Richard LaGravenese']"
+Last Shift,2014,['Anthony DiBlasi'],"['Anthony DiBlasi', 'Scott Poiley']"
+The Last: Naruto the Movie,2014,['Tsuneo Kobayashi'],"['Masashi Kishimoto', 'Masashi Kishimoto']"
+Le paradis,2014,['Alain Cavalier'],['Alain Cavalier']
+Learning to Drive,2014,['Isabel Coixet'],['Sarah Kernochan']
+The Legend of Hercules,2014,['Renny Harlin'],"['Sean Hood', 'Daniel Giat']"
+The Lego Movie,2014,"['Phil Lord', 'Christopher Miller']","['Phil Lord', 'Christopher Miller']"
+Let Us Prey,2014,"[""Brian O'Malley""]","['Fiona Watson', 'David Cairns']"
+Let's Be Cops,2014,['Luke Greenfield'],"['Luke Greenfield', 'Nicholas Thomas']"
+Leviathan,2014,['Andrey Zvyagintsev'],"['Oleg Negin', 'Andrey Zvyagintsev']"
+Lies I Told My Little Sister,2014,['William J. Stribling'],"['Jonathan Weisbrod', 'Judy White']"
+"Aimer, boire et chanter",2014,['Alain Resnais'],"['Alan Ayckbourn', 'Laurent Herbiet']"
+Life Partners,2014,['Susanna Fogel'],"['Susanna Fogel', 'Joni Lefkowitz']"
+"Like Sunday, Like Rain",2014,['Frank Whaley'],['Frank Whaley']
+Lizzie Borden Took an Ax,2014,['Nick Gomez'],['Stephen Kay']
+The Lookalike,2014,['Richard Gray'],['Michele Gray']
+Love & Mercy,2014,['Bill Pohlad'],"['Oren Moverman', 'Michael A. Lerner']"
+Love Is Strange,2014,['Ira Sachs'],"['Ira Sachs', 'Mauricio Zacharias']"
+"Love, Rosie",2014,['Christian Ditter'],"['Juliette Towhidi', 'Cecelia Ahern']"
+Lucy,2014,['Luc Besson'],['Luc Besson']
+Lügen und andere Wahrheiten,2014,['Vanessa Jopp'],"['Stefan Schneider', 'Vanessa Jopp']"
+Lust for Love,2014,['Anton King'],['Anton King']
+Magic in the Moonlight,2014,['Woody Allen'],['Woody Allen']
+Magical Girl,2014,['Carlos Vermut'],['Carlos Vermut']
+Maleficent,2014,['Robert Stromberg'],"['Linda Woolverton', 'Charles Perrault']"
+Eat Your Bones,2014,['Jean-Charles Hue'],"['Jean-Charles Hue', 'Salvatore Lista']"
+Maps to the Stars,2014,['David Cronenberg'],['Bruce Wagner']
+Margarita with a Straw,2014,"['Shonali Bose', 'Nilesh Maniyar']","['Shonali Bose', 'Atika Chohan']"
+The Maze Runner,2014,['Wes Ball'],"['Noah Oppenheim', 'Grant Pierce Myers']"
+Mega Shark vs. Mecha Shark,2014,['Emile Edwin Smith'],"['H. Perry Horton', 'Jose Prendes']"
+Mercenaries,2014,['Christopher Ray'],['Edward DeRuiter']
+Mike and I,2014,['James Pasierbowicz'],['James Pasierbowicz']
+Million Dollar Arm,2014,['Craig Gillespie'],['Tom McCarthy']
+Miss Meadows,2014,['Karen Leigh Hopkins'],['Karen Leigh Hopkins']
+Mommy,2014,['Xavier Dolan'],['Xavier Dolan']
+Moms' Night Out,2014,"['Andrew Erwin', 'Jon Erwin']","['Jon Erwin', 'Andrea Gyertson Nasfell']"
+The Monuments Men,2014,['George Clooney'],"['George Clooney', 'Grant Heslov']"
+Mostly Ghostly: Have You Met My Ghoulfriend?,2014,['Peter Hewitt'],"['R.L. Stine', 'Rich Correll']"
+Mr. Peabody & Sherman,2014,['Rob Minkoff'],"['Jay Ward', 'Craig Wright']"
+Mr. Turner,2014,['Mike Leigh'],['Mike Leigh']
+Muppets Most Wanted,2014,['James Bobin'],"['James Bobin', 'Nicholas Stoller']"
+Killing Daddy,2014,['Curtis Crawford'],"['Suzanne Dolan', 'Trent Haaga']"
+My Little Pony: Equestria Girls - Rainbow Rocks,2014,"['Jayson Thiessen', 'Ishi Rudell']","['Lauren Faust', 'Meghan McCarthy']"
+My Old Lady,2014,['Israel Horovitz'],"['Israel Horovitz', 'Israel Horovitz']"
+Når dyrene drømmer,2014,['Jonas Alexander Arnby'],"['Rasmus Birch', 'Christoffer Boe']"
+Near Death Experience,2014,"['Benoît Delépine', 'Gustave Kervern']","['Benoît Delépine', 'Gustave Kervern']"
+Need for Speed,2014,['Scott Waugh'],"['George Gatins', 'George Gatins']"
+Neighbors,2014,['Nicholas Stoller'],"['Andrew Jay Cohen', ""Brendan O'Brien""]"
+Night at the Museum: Secret of the Tomb,2014,['Shawn Levy'],"['David Guion', 'Michael Handelman']"
+Nightcrawler,2014,['Dan Gilroy'],['Dan Gilroy']
+No Good Deed,2014,['Sam Miller'],['Aimee Lagos']
+Noah,2014,['Darren Aronofsky'],"['Darren Aronofsky', 'Ari Handel']"
+Non-Stop,2014,['Jaume Collet-Serra'],"['John W. Richardson', 'Christopher Roach']"
+The Normal Heart,2014,['Ryan Murphy'],"['Larry Kramer', 'Larry Kramer']"
+Nosferatu in Love     ,None,['Peter Straughan'],"['Peter Straughan', 'Peter Straughan']"
+Not Cool,2014,['Shane Dawson'],['Dan Schoffer']
+The November Man,2014,['Roger Donaldson'],"['Michael Finch', 'Karl Gajdusek']"
+Obvious Child,2014,['Gillian Robespierre'],"['Gillian Robespierre', 'Karen Maine']"
+Ocho apellidos vascos,2014,['Emilio Martínez Lázaro'],"['Borja Cobeaga', 'Diego San José']"
+Oculus,2013,['Mike Flanagan'],"['Mike Flanagan', 'Jeff Howard']"
+Omoide no Mânî,2014,"['James Simone', 'Hiromasa Yonebayashi']","['Joan G. Robinson', 'Keiko Niwa']"
+The One I Love,2014,['Charlie McDowell'],['Justin Lader']
+The Other Woman,2014,['Nick Cassavetes'],['Melissa Stack']
+Ouija,2014,['Stiles White'],"['Juliet Snowden', 'Stiles White']"
+Our RoboCop Remake,2014,"['Kelsy Abbott', 'Paul Bartunek', '57 more credits']","['Edward Neumeier', 'Michael Miner']"
+Out in the Night,2014,['Blair Doroshwalther'],['Blair Doroshwalther']
+Out of the Dark,2014,['Lluís Quílez'],"['Javier Gullón', 'David Pastor']"
+Outcast,2014,['Nick Powell'],['James Dormer']
+The Pa Boys,2014,['Himiona Grace'],['Himiona Grace']
+Paddington,2014,['Paul King'],"['Paul King', 'Hamish McColl']"
+Pane e burlesque,2014,['Manuela Tempesta'],"['Manuela Tempesta', 'Massimiliano Bruno']"
+Paper Planes,2014,['Robert Connolly'],"['Robert Connolly', 'Steve Worland']"
+Parallels,2015,['Christopher Leone'],"['Laura Harkcom', 'Christopher Leone']"
+Paranormal Activity: The Marked Ones,2014,['Christopher Landon'],"['Christopher Landon', 'Oren Peli']"
+Penguins of Madagascar,2014,"['Eric Darnell', 'Simon J. Smith']","['Michael Colton', 'John Aboud']"
+Perfect Sisters,2014,['Stanley M. Brooks'],"['Fab Filippo', 'Bob Mitchell']"
+Phoenix,2014,['Christian Petzold'],"['Christian Petzold', 'Hubert Monteilhet']"
+The Pirate Fairy,2014,['Peggy Holmes'],"['Jeffrey M. Howard', 'Kate Kondell']"
+Planes: Fire & Rescue,2014,['Roberts Gannaway'],"['Roberts Gannaway', 'Jeffrey M. Howard']"
+Pompeii,2014,['Paul W.S. Anderson'],"['Janet Scott Batchler', 'Lee Batchler']"
+Praia do Futuro,2014,['Karim Aïnouz'],"['Felipe Bragança', 'Karim Aïnouz']"
+Predestination,2014,"['Michael Spierig', 'Peter Spierig']","['Michael Spierig', 'Peter Spierig']"
+Pride,2014,['Matthew Warchus'],['Stephen Beresford']
+Primero De Enero,2014,['Erika Bagnarello'],['Erika Bagnarello']
+Project Almanac,2015,['Dean Israelite'],"['Jason Pagan', 'Andrew Deutschman']"
+The Purge: Anarchy,2014,['James DeMonaco'],"['James DeMonaco', 'James DeMonaco']"
+Qu'est-ce qu'on a fait au Bon Dieu?,2014,['Philippe de Chauveron'],"['Philippe de Chauveron', 'Guy Laurent']"
+Queen,2013,['Vikas Bahl'],"['Vikas Bahl', 'Chaitally Parmar']"
+The Quiet Hour,2014,['Stéphanie Joalland'],['Stéphanie Joalland']
+The Quiet Roar,2014,['Henrik Hellström'],"['Henrik Hellström', 'Fredrik Wenzel']"
+Ragamuffin,2014,['David Leo Schultz'],"['David Holechek', 'Dave Mullins']"
+Relatos salvajes,2014,['Damián Szifron'],"['Germán Servidio', 'Damián Szifron']"
+Respire,2014,['Mélanie Laurent'],"['Anne-Sophie Brasme', 'Julien Lambroschini']"
+"Rico, Oskar und die Tieferschatten",2014,['Neele Leana Vollmar'],"['Christian Lerch', 'Andreas Bradler']"
+Ride Along,2014,['Tim Story'],"['Greg Coolidge', 'Jason Mantzoukas']"
+Rio 2,2014,['Carlos Saldanha'],"['Don Rhymer', 'Carlos Kotkin']"
+The Riot Club,2014,['Lone Scherfig'],"['Laura Wade', 'Laura Wade']"
+River of Fundament,2014,['Matthew Barney'],"['Matthew Barney', 'David Grimm']"
+RoboCop,2014,['José Padilha'],"['Joshua Zetumer', 'Edward Neumeier']"
+Rosewater,2014,['Jon Stewart'],"['Jon Stewart', 'Maziar Bahari']"
+The Rover,2014,['David Michôd'],"['Joel Edgerton', 'David Michôd']"
+Sabotage,2014,['David Ayer'],"['Skip Woods', 'David Ayer']"
+The Judgment,2014,['Stephan Komandarev'],"['Stephan Komandarev', 'Marin Damyanov']"
+Saint Seiya: Legend of Sanctuary,2014,"[""Kei'ichi Sato""]","['Masami Kurumada', 'Chihiro Suzuki']"
+The Salvation,2014,['Kristian Levring'],"['Anders Thomas Jensen', 'Kristian Levring']"
+The Scribbler,2014,['John Suits'],['Dan Schaffer']
+Search Party,2014,['Scot Armstrong'],"['Mike Gagerman', 'Andrew Waller']"
+Selma,2014,['Ava DuVernay'],['Paul Webb']
+Seventh Son,2014,['Sergei Bodrov'],"['Charles Leavitt', 'Steven Knight']"
+Sharknado 2: The Second One,2014,['Anthony C. Ferrante'],['Thunder Levin']
+She's Funny That Way,2014,['Peter Bogdanovich'],"['Louise Stratten', 'Peter Bogdanovich']"
+Sin City: A Dame to Kill For,2014,"['Frank Miller', 'Robert Rodriguez']","['Frank Miller', 'Frank Miller']"
+The Single Moms Club,2014,['Tyler Perry'],['Tyler Perry']
+The Skeleton Twins,2014,['Craig Johnson'],"['Craig Johnson', 'Mark Heyman']"
+Someone Marry Barry,2014,['Rob Pearlstein'],['Rob Pearlstein']
+"Something, Anything",2014,['Paul Harrill'],['Paul Harrill']
+Son of Batman,2014,['Ethan Spaulding'],"['Bob Kane', 'Grant Morrison']"
+Song of the Sea,2014,['Tomm Moore'],"['Will Collins', 'Tomm Moore']"
+Sora no otoshimono Final: Etânaru mai masutâ,2014,"['Kaori Fukuhara', 'Saori Hayami', 'Mina', 'See full cast & crew']",None
+Spring,2014,"['Justin Benson', 'Aaron Moorhead']",['Justin Benson']
+St. Vincent,2014,['Theodore Melfi'],['Theodore Melfi']
+Starving in Suburbia,2014,['Tara Miele'],['Tara Miele']
+Step Up All In,2014,['Trish Sie'],"['Duane Adler', 'John Swetnam']"
+Still Alice,2014,"['Richard Glatzer', 'Wash Westmoreland']","['Richard Glatzer', 'Wash Westmoreland']"
+Futatsume no mado,2014,['Naomi Kawase'],['Naomi Kawase']
+Stretch,2014,['Joe Carnahan'],"['Joe Carnahan', 'Jerry Corley']"
+Suite Française,2014,['Saul Dibb'],"['Saul Dibb', 'Matt Charman']"
+The Taking of Deborah Logan,2014,['Adam Robitel'],"['Adam Robitel', 'Gavin Heffernan']"
+Tammy,2014,['Ben Falcone'],"['Melissa McCarthy', 'Ben Falcone']"
+Teenage Mutant Ninja Turtles,2014,['Jonathan Liebesman'],"['Josh Appelbaum', 'André Nemec']"
+That Awkward Moment,2014,['Tom Gormican'],['Tom Gormican']
+Thegidi,2014,['P. Ramesh'],['P. Ramesh']
+The Theory of Everything,2014,['James Marsh'],"['Anthony McCarten', 'Jane Hawking']"
+They Came Together,2014,['David Wain'],"['Michael Showalter', 'David Wain']"
+This Is Where I Leave You,2014,['Shawn Levy'],"['Jonathan Tropper', 'Jonathan Tropper']"
+Tinker Bell and the Legend of the NeverBeast,2014,['Steve Loter'],"['Steve Loter', 'Tom Rogers']"
+Top Five,2014,['Chris Rock'],['Chris Rock']
+The Town That Dreaded Sundown,2014,['Alfonso Gomez-Rejon'],"['Roberto Aguirre-Sacasa', 'Earl E. Smith']"
+Transcendence,2014,['Wally Pfister'],['Jack Paglen']
+Transformers: Age of Extinction,2014,['Michael Bay'],['Ehren Kruger']
+Trash,2014,"['Stephen Daldry', 'Christian Duurvoort']","['Andy Mulligan', 'Felipe Braga']"
+Treehouse,2014,['Michael G. Bartlett'],"['Alex Child', 'Miles Harrington']"
+Tu Dors Nicole,2014,['Stéphane Lafleur'],"['Valérie Beaugrand-Champagne', 'Stéphane Lafleur']"
+Turist,2014,['Ruben Östlund'],['Ruben Östlund']
+"Two Days, One Night",2014,"['Jean-Pierre Dardenne', 'Luc Dardenne']","['Jean-Pierre Dardenne', 'Luc Dardenne']"
+The Two Faces of January,2014,['Hossein Amini'],"['Hossein Amini', 'Patricia Highsmith']"
+Two Night Stand,2014,['Max Nichols'],['Mark Hammer']
+Unbroken,2014,['Angelina Jolie'],"['Joel Coen', 'Ethan Coen']"
+Under the Skin,2013,['Jonathan Glazer'],"['Walter Campbell', 'Jonathan Glazer']"
+Une nouvelle amie,2014,['François Ozon'],"['Ruth Rendell', 'François Ozon']"
+Unfriended,2014,['Levan Gabriadze'],['Nelson Greaves']
+Unutursam Fisilda,2014,['Çagan Irmak'],['Çagan Irmak']
+Vampire Academy,2014,['Mark Waters'],"['Richelle Mead', 'Daniel Waters']"
+Ventos de Agosto,2014,['Gabriel Mascaro'],"['Gabriel Mascaro', 'Rachel Daisy Ellis']"
+Verden venter,2014,['Mariken Halle'],['Mariken Halle']
+Veronica Mars,2014,['Rob Thomas'],"['Rob Thomas', 'Diane Ruggiero']"
+Viharsarok,2014,['Ádám Császi'],"['Iván Szabó', 'Ádám Császi']"
+Walk of Shame,2014,['Steven Brill'],['Steven Brill']
+Welcome to Me,2014,['Shira Piven'],['Eliot Laurence']
+What We Did on Our Holiday,2014,"['Andy Hamilton', 'Guy Jenkin']","['Andy Hamilton', 'Guy Jenkin']"
+What We Do in the Shadows,2014,"['Jemaine Clement', 'Taika Waititi']","['Jemaine Clement', 'Taika Waititi']"
+When the Game Stands Tall,2014,['Thomas Carter'],"['Scott Marshall Smith', 'Scott Marshall Smith']"
+While We're Young,2014,['Noah Baumbach'],"['Noah Baumbach', 'Henrik Ibsen']"
+Whiplash,2014,['Damien Chazelle'],['Damien Chazelle']
+White Bird in a Blizzard,2014,['Gregg Araki'],"['Gregg Araki', 'Laura Kasischke']"
+Who Am I - Kein System ist sicher,2014,['Baran bo Odar'],"['Jantje Friese', 'Baran bo Odar']"
+Wicked Blood,2014,['Mark Young'],['Mark Young']
+Wild,2014,['Jean-Marc Vallée'],"['Nick Hornby', 'Cheryl Strayed']"
+Winter's Tale,2014,['Akiva Goldsman'],"['Akiva Goldsman', 'Mark Helprin']"
+Wir sind die Neuen,2014,['Ralf Westhoff'],['Ralf Westhoff']
+Wish I Was Here,2014,['Zach Braff'],"['Adam J. Braff', 'Zach Braff']"
+The Woman in Black 2: Angel of Death,2014,['Tom Harper'],"['Jon Croker', 'Jon Croker']"
+Women Aren't Funny,2014,['Bonnie McFarlane'],"['Joe DeRosa', 'Tim Disbrow']"
+Wyrmwood: Road of the Dead,2014,['Kiah Roache-Turner'],"['Kiah Roache-Turner', 'Tristan Roache-Turner']"
+X-Men: Days of Future Past,2014,['Bryan Singer'],"['Simon Kinberg', 'Jane Goldman']"
+You're Not You,2014,['George C. Wolfe'],"['Shana Feste', 'Jordan Roberts']"
+Young Ones,2014,['Jake Paltrow'],['Jake Paltrow']
+Yves Saint Laurent,2014,['Jalil Lespert'],"['Marie-Pierre Huster', 'Jalil Lespert']"
+Efes beyahasei enosh,2014,['Talya Lavie'],['Talya Lavie']
+Zombeavers,2014,['Jordan Rubin'],"['Al Kaplan', 'Jordan Rubin']"
++1,2013,['Dennis Iliadis'],"['Dennis Iliadis', 'Bill Gullo']"
+The 100 Year-Old Man Who Climbed Out the Window and Disappeared,2013,['Felix Herngren'],"['Felix Herngren', 'Hans Ingemansson']"
+12 Years a Slave,2013,['Steve McQueen'],"['John Ridley', 'Solomon Northup']"
+138 segons. L'enigma Gironès,2013,['Joan López Lloret'],"['Javier Barreiro Cavestany', 'Joan López Lloret']"
+2 Guns,2013,['Baltasar Kormákur'],"['Blake Masters', 'Steven Grant']"
+Twenty Feet from Stardom,2013,['Morgan Neville'],"['Darlene Love', 'Merry Clayton', 'Lisa Fischer']"
+21 & Over,2013,"['Jon Lucas', 'Scott Moore']","['Jon Lucas', 'Scott Moore']"
+300 Worte Deutsch,2013,['Züli Aladag'],"['Ali Samadi Ahadi', 'Arne Nolting']"
+3096 Tage,2013,['Sherry Hormann'],"['Ruth Toma', 'Bernd Eichinger']"
+42,2013,['Brian Helgeland'],['Brian Helgeland']
+47 Ronin,2013,['Carl Rinsch'],"['Chris Morgan', 'Hossein Amini']"
+52 Tuesdays,2013,['Sophie Hyde'],"['Matthew Cormack', 'Matthew Cormack']"
+A Case of You,2013,['Kat Coiro'],"['Christian Long', 'Justin Long']"
+A Field in England,2013,['Ben Wheatley'],['Amy Jump']
+A Good Day to Die Hard,2013,['John Moore'],"['Skip Woods', 'Roderick Thorp']"
+A Haunted House,2013,['Michael Tiddes'],"['Marlon Wayans', 'Rick Alvarez']"
+A Haunting at Silver Falls,2013,['Brett Donowho'],"['Cam Cannon', 'Rachel Long']"
+A Picture of You,2013,['J.P. Chan'],"['J.P. Chan', 'J.P. Chan']"
+A Talking Cat!?!,2013,['David DeCoteau'],['Andrew Helm']
+A Teacher,2013,['Hannah Fidell'],['Hannah Fidell']
+About Time,2013,['Richard Curtis'],['Richard Curtis']
+Admission,2013,['Paul Weitz'],"['Karen Croner', 'Jean Hanff Korelitz']"
+Adult World,2013,['Scott Coffey'],['Andy Cochran']
+After Earth,2013,['M. Night Shyamalan'],"['Gary Whitta', 'M. Night Shyamalan']"
+Afternoon Delight,2013,['Jill Soloway'],['Jill Soloway']
+Alan Partridge: Alpha Papa,2013,['Declan Lowney'],"['Neil Gibbons', 'Rob Gibbons']"
+All Cheerleaders Die,2013,"['Lucky McKee', 'Chris Sivertson']","['Lucky McKee', 'Chris Sivertson']"
+All Is Lost,2013,['J.C. Chandor'],['J.C. Chandor']
+American Hustle,2013,['David O. Russell'],"['Eric Warren Singer', 'David O. Russell']"
+Amiche da morire,2013,['Giorgia Farina'],"['Fabio Bonifacci', 'Giorgia Farina']"
+An Easter Bunny Puppy,2013,['David DeCoteau'],['Sebastian Dinwiddie']
+Anchorman 2: The Legend Continues,2013,['Adam McKay'],"['Will Ferrell', 'Adam McKay']"
+And Now a Word from Our Sponsor,2013,['Zack Bernbaum'],"['Michael Hamilton-Wright', 'Michael Hamilton-Wright']"
+Angélique,2013,['Ariel Zeitoun'],"['Nadia Golon', 'Philippe Blasband']"
+Another Me,2013,['Isabel Coixet'],"['Isabel Coixet', 'Cathy MacPhail']"
+Are You Here,2013,['Matthew Weiner'],['Matthew Weiner']
+Ashley,2013,['Dean Matthew Ronalds'],['Domenic Migliore']
+Ass Backwards,2013,['Chris Nelson'],"['June Diane Raphael', 'Casey Wilson']"
+At Middleton,2013,['Adam Rodgers'],"['Glenn German', 'Adam Rodgers']"
+August: Osage County,2013,['John Wells'],"['Tracy Letts', 'Tracy Letts']"
+Austenland,2013,['Jerusha Hess'],"['Jerusha Hess', 'Shannon Hale']"
+Bad Words,2013,['Jason Bateman'],['Andrew Dodge']
+Baggage Claim,2013,['David E. Talbert'],"['David E. Talbert', 'David E. Talbert']"
+Barbie & Her Sisters in a Pony Tale,2013,['Kyran Kelly'],"['Cydne Clark', 'Steve Granat']"
+Bayonetta: Bloody Fate,2013,['Fuminori Kizaki'],"['Mitsutaka Hirota', 'Hideki Kamiya']"
+Beautiful Creatures,2013,['Richard LaGravenese'],"['Richard LaGravenese', 'Kami Garcia']"
+Before Midnight,2013,['Richard Linklater'],"['Richard Linklater', 'Julie Delpy']"
+Behind the Candelabra,2013,['Steven Soderbergh'],"['Richard LaGravenese', 'Scott Thorson']"
+Beltracchi - Die Kunst der Fälschung,2014,['Arne Birkenstock'],['Arne Birkenstock']
+Bends,2013,['Flora Lau'],['Flora Lau']
+Beneath,2013,['Ben Ketai'],"['Patrick Doody', 'Chris Valenziano']"
+Best Friends Forever,2013,['Brea Grant'],"['Brea Grant', 'Vera Miao']"
+The Best Man Holiday,2013,['Malcolm D. Lee'],"['Malcolm D. Lee', 'Malcolm D. Lee']"
+Best Night Ever,2013,"['Jason Friedberg', 'Aaron Seltzer']","['Jason Friedberg', 'Aaron Seltzer']"
+The Best Offer,2013,['Giuseppe Tornatore'],['Giuseppe Tornatore']
+Bicycling with Molière,2013,['Philippe Le Guay'],"['Fabrice Luchini', 'Philippe Le Guay']"
+The Big Wedding,2013,['Justin Zackham'],"['Justin Zackham', 'Jean-Stéphane Bron']"
+Birdemic 2: The Resurrection,2013,['James Nguyen'],['James Nguyen']
+Blackfish,2013,['Gabriela Cowperthwaite'],"['Gabriela Cowperthwaite', 'Eli B. Despres']"
+The Bling Ring,2013,['Sofia Coppola'],"['Sofia Coppola', 'Nancy Jo Sales']"
+Blue Is the Warmest Color,2013,['Abdellatif Kechiche'],"['Abdellatif Kechiche', 'Ghalia Lacroix']"
+Blue Jasmine,2013,['Woody Allen'],['Woody Allen']
+Blue Ruin,2013,['Jeremy Saulnier'],['Jeremy Saulnier']
+The Book Thief,2013,['Brian Percival'],"['Markus Zusak', 'Michael Petroni']"
+Bounty Killer,2013,['Henry Saine'],"['Jason Dodson', 'Jason Dodson']"
+O Menino e o Mundo,2013,['Alê Abreu'],['Alê Abreu']
+The Call,2013,['Brad Anderson'],"[""Richard D'Ovidio"", ""Richard D'Ovidio""]"
+Camille Claudel 1915,2013,['Bruno Dumont'],"['Paul Claudel', 'Camille Claudel']"
+Captain Battle: Legacy War,2013,['David Palmieri'],"['Jack Binder', 'Carl Formes']"
+Captain Phillips,2013,['Paul Greengrass'],"['Billy Ray', 'Richard Phillips']"
+Carrie,2013,['Kimberly Peirce'],"['Lawrence D. Cohen', 'Roberto Aguirre-Sacasa']"
+Casse-tête chinois,2013,['Cédric Klapisch'],['Cédric Klapisch']
+Cheap Thrills,2013,['E.L. Katz'],"['David Chirchirillo', 'Trent Haaga']"
+Christmas in the City,2013,['Marita Grabiak'],['Barbara Kymlicka']
+Clear History,2013,['Greg Mottola'],"['Larry David', 'Alec Berg']"
+Closed Circuit,2013,['John Crowley'],['Steven Knight']
+Cloudy with a Chance of Meatballs 2,2013,"['Cody Cameron', 'Kris Pearn']","['Erica Rivinoja', 'John Francis Daley']"
+Coherence,2013,['James Ward Byrkit'],"['James Ward Byrkit', 'James Ward Byrkit']"
+The Colony,2013,['Jeff Renfroe'],"['Jeff Renfroe', 'Svet Rouskov']"
+Computer Chess,2013,['Andrew Bujalski'],['Andrew Bujalski']
+Concussion,2013,['Stacie Passon'],['Stacie Passon']
+The Congress,2013,['Ari Folman'],"['Stanislaw Lem', 'Ari Folman']"
+The Conjuring,2013,['James Wan'],"['Chad Hayes', 'Carey W. Hayes']"
+Contracted,2013,['Eric England'],['Eric England']
+The Counselor,2013,['Ridley Scott'],['Cormac McCarthy']
+The Croods,2013,"['Kirk DeMicco', 'Chris Sanders']","['Chris Sanders', 'Kirk DeMicco']"
+The Crown and the Dragon,2013,['Anne K. Black'],"['Anne K. Black', 'Kynan Griffin']"
+Crystal Fairy y el cactus mágico,2013,['Sebastián Silva'],['Sebastián Silva']
+Curse of Chucky,2013,['Don Mancini'],"['Don Mancini', 'Don Mancini']"
+Cutie and the Boxer,2013,['Zachary Heinzerling'],['Zachary Heinzerling']
+Dallas Buyers Club,2013,['Jean-Marc Vallée'],"['Craig Borten', 'Melisa Wallack']"
+Dark Skies,2013,['Scott Stewart'],['Scott Stewart']
+Dark Touch,2013,['Marina de Van'],['Marina de Van']
+The Day of the Doctor     ,None,['Nick Hurran'],"['Steven Moffat', 'Terry Nation']"
+Dead Man Down,2013,['Niels Arden Oplev'],['J.H. Wyman']
+Decoding Annie Parker,2013,['Steven Bernstein'],"['Adam Bernstein', 'Steven Bernstein']"
+The Den,2013,['Zachary Donohue'],"['Zachary Donohue', 'Lauren Thompson']"
+Despicable Me 2,2013,"['Pierre Coffin', 'Chris Renaud']","['Cinco Paul', 'Ken Daurio']"
+Devil's Pass,2013,['Renny Harlin'],['Vikram Weet']
+The Devil's Violinist,2013,['Bernard Rose'],['Bernard Rose']
+The Dirties,2013,['Matt Johnson'],"['Josh Boles', 'Matt Johnson']"
+Disconnect,2012,['Henry Alex Rubin'],['Andrew Stern']
+Don Jon,2013,['Joseph Gordon-Levitt'],['Joseph Gordon-Levitt']
+Down River,2013,['Benjamin Ratner'],['Benjamin Ratner']
+Dragon Ball Z: Doragon bôru Z - Kami to Kami,2013,['Masahiro Hosoda'],"['Akira Toriyama', 'Akira Toriyama']"
+SAGA - Curse of the Shadow,2013,['John Lyde'],"['Jason Faller', 'Kynan Griffin']"
+Drinking Buddies,2013,['Joe Swanberg'],['Joe Swanberg']
+The East,2013,['Zal Batmanglij'],"['Zal Batmanglij', 'Brit Marling']"
+Ego,2013,['Lisa James Larsson'],['Lisa James Larsson']
+Elle s'en va,2013,['Emmanuelle Bercot'],"['Emmanuelle Bercot', 'Jérôme Tonnerre']"
+Elysium,2013,['Neill Blomkamp'],['Neill Blomkamp']
+Ender's Game,2013,['Gavin Hood'],"['Gavin Hood', 'Orson Scott Card']"
+Enemy,2013,['Denis Villeneuve'],"['José Saramago', 'Javier Gullón']"
+Enough Said,2013,['Nicole Holofcener'],['Nicole Holofcener']
+Epic,2013,['Chris Wedge'],"['James V. Hart', 'William Joyce']"
+Escape from Planet Earth,2013,['Cal Brunker'],"['Bob Barlen', 'Cal Brunker']"
+Escape Plan,2013,['Mikael Håfström'],"['Miles Chapman', 'Jason Keller']"
+Europa Report,2013,['Sebastián Cordero'],['Philip Gelatt']
+Evil Dead,2013,['Fede Alvarez'],"['Fede Alvarez', 'Rodo Sayagues']"
+Exit Marrakech,2013,['Caroline Link'],['Caroline Link']
+Fack ju Göhte,2013,['Bora Dagtekin'],"['Bora Dagtekin', 'Simon Hauschild']"
+Fading Gigolo,2013,['John Turturro'],['John Turturro']
+The Fall     ,None,['Allan Cubitt'],"['Gillian Anderson', 'Jamie Dornan', 'John Lynch']"
+Family Weekend,2013,['Benjamin Epps'],['Matt K. Turner']
+The Family,2013,['Luc Besson'],"['Luc Besson', 'Michael Caleo']"
+Faroeste Caboclo,2013,['René Sampaio'],"['Victor Atherino', 'Marcos Bernstein']"
+Furious 6,2013,['Justin Lin'],"['Chris Morgan', 'Gary Scott Thompson']"
+The Fifth Estate,2013,['Bill Condon'],"['Daniel Domscheit-Berg', 'David Leigh']"
+Filth,2013,['Jon S. Baird'],"['Jon S. Baird', 'Irvine Welsh']"
+Finding Mr. Right,2013,['Xiaolu Xue'],['Xiaolu Xue']
+Finsterworld,2013,['Frauke Finsterwalder'],"['Frauke Finsterwalder', 'Christian Kracht']"
+First Period,2013,['Charlie Vaughn'],['Brandon Alexander III']
+Flores Raras,2013,['Bruno Barreto'],"['Matthew Chapman', 'Julie Sayres']"
+Para Elisa,2012,['Juanra Fernández'],['Juanra Fernández']
+Frankenstein's Army,2013,['Richard Raaphorst'],"['Richard Raaphorst', 'Richard Raaphorst']"
+Freier Fall,2013,['Stephan Lacant'],"['Stephan Lacant', 'Karsten Dahlem']"
+Frequencies,2013,['Darren Paul Fisher'],['Darren Paul Fisher']
+Frozen,2013,"['Chris Buck', 'Jennifer Lee']","['Jennifer Lee', 'Hans Christian Andersen']"
+The Frozen Ground,2013,['Scott Walker'],['Scott Walker']
+Fruitvale Station,2013,['Ryan Coogler'],['Ryan Coogler']
+Future Shift,2014,['Suza Singh'],['Suza Singh']
+G.B.F.,2013,['Darren Stein'],['George Northy']
+G.I. Joe: Retaliation,2013,['Jon M. Chu'],"['Rhett Reese', 'Paul Wernick']"
+Gabrielle,2013,['Louise Archambault'],['Louise Archambault']
+Gam-si-ja-deul,2013,"['Ui-seok Jo', 'Byung-seo Kim']","['Kin-Yee Au', 'Ui-seok Jo']"
+The Gamers: Hands of Fate,2013,"['Ben Dobyns', 'Matt Vancil']","['Nathan Rice', 'Matt Vancil']"
+Gangster Squad,2013,['Ruben Fleischer'],"['Will Beall', 'Paul Lieberman']"
+Gekijouban Steins;Gate: Fuka ryouiki no dejavu,2013,"['Kanji Wakabayashi', 'Hiroshi Hamazaki', '1 more credit']","['Chiyomaru Shikura', 'Jukki Hanada']"
+Geography Club,2013,['Gary Entin'],"['Edmund Entin', 'Brent Hartinger']"
+The German Doctor,2013,['Lucía Puenzo'],['Lucía Puenzo']
+Gimme Shelter,2013,['Ron Krauss'],['Ron Krauss']
+Girl Most Likely,2012,"['Shari Springer Berman', 'Robert Pulcini']",['Michelle Morgan']
+Gloria,2013,['Sebastián Lelio'],"['Sebastián Lelio', 'Gonzalo Maza']"
+Go for Sisters,2013,['John Sayles'],['John Sayles']
+Grace Unplugged,2013,['Brad J. Silverman'],"['Brad J. Silverman', 'Brad J. Silverman']"
+The Grand Seduction,2013,['Don McKellar'],"['Ken Scott', 'Michael Dowse']"
+The Grandmaster,2013,['Kar-Wai Wong'],"['Kar-Wai Wong', 'Kar-Wai Wong']"
+Gravity,2013,['Alfonso Cuarón'],"['Alfonso Cuarón', 'Jonás Cuarón']"
+The Great Gatsby,2013,['Baz Luhrmann'],"['Baz Luhrmann', 'Craig Pearce']"
+Grown Ups 2,2013,['Dennis Dugan'],"['Fred Wolf', 'Adam Sandler']"
+The Hangover Part III,2013,['Todd Phillips'],"['Todd Phillips', 'Craig Mazin']"
+Hannas Reise,2013,['Julia von Heinz'],"['John Quester', 'Julia von Heinz']"
+Hansel & Gretel,2013,['Anthony C. Ferrante'],['Jose Prendes']
+Hansel & Gretel: Witch Hunters,2013,['Tommy Wirkola'],['Tommy Wirkola']
+Hansel & Gretel Get Baked,2013,['Duane Journey'],['David Tillman']
+Haunt,2014,['Mac Carter'],['Andrew Barrer']
+Haunter,2013,['Vincenzo Natali'],['Brian King']
+Les saveurs du Palais,2012,['Christian Vincent'],"['Etienne Comar', 'Christian Vincent']"
+The Heat,2013,['Paul Feig'],['Katie Dippold']
+Hemlock Grove     ,None,"['Brian McGreevy', 'Lee Shipman']","['Famke Janssen', 'Bill Skarsgård', 'Landon Liboiron']"
+Her,2013,['Spike Jonze'],['Spike Jonze']
+The Hit Girl,2013,['James A. Ward'],"['Robert Bruce', 'James A. Ward']"
+The Hobbit: The Desolation of Smaug,2013,['Peter Jackson'],"['Fran Walsh', 'Philippa Boyens']"
+Homefront,2013,['Gary Fleder'],"['Sylvester Stallone', 'Chuck Logan']"
+Horns,2013,['Alexandre Aja'],"['Keith Bunin', 'Joe Hill']"
+The Host,2013,['Andrew Niccol'],"['Andrew Niccol', 'Stephenie Meyer']"
+The Hot Flashes,2013,['Susan Seidelman'],['Brad Hennig']
+House of Cards     ,None,['Beau Willimon'],"['Kevin Spacey', 'Michel Gill', 'Robin Wright']"
+How I Live Now,2013,['Kevin Macdonald'],"['Meg Rosoff', 'Jeremy Brock']"
+Hross í oss,2013,['Benedikt Erlingsson'],['Benedikt Erlingsson']
+The Hunger Games: Catching Fire,2013,['Francis Lawrence'],"['Simon Beaufoy', 'Michael Arndt']"
+I Give It a Year,2013,['Dan Mazer'],['Dan Mazer']
+I Used to Be Darker,2013,['Matthew Porterfield'],"['Amy Belk', 'Matthew Porterfield']"
+I'm So Excited!,2013,['Pedro Almodóvar'],['Pedro Almodóvar']
+Ida,2013,['Pawel Pawlikowski'],"['Pawel Pawlikowski', 'Rebecca Lenkiewicz']"
+Identity Thief,2013,['Seth Gordon'],"['Craig Mazin', 'Jerry Eeten']"
